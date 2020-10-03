@@ -14,11 +14,10 @@ An Algorithm for Peer Reviewer Recommendation based on Scholarly Activity Assess
 
 ### Contacts
 
-현진우, hyunjw0123@gmail.com
+홍길동, aaa0123@gmail.com
 
-> 한국외대 컴퓨터공학 | 언어공학\
+> 한국외대 \
 KYR_MachineLearing_LAB\
-SPELIX Inc. R&D Center
 
 
 ### License
