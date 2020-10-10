@@ -4,7 +4,7 @@ An Algorithm for Peer Reviewer Recommendation based on Scholarly Activity Assess
 ---
 
 <center>
-<img src="/an-algorithm-for-peer-reviewer-recommendation.png"  width="750" height="900">
+<img src="/image/an-algorithm-for-peer-reviewer-recommendation.png"  width="750" height="900">
 </center>
 
 ---
