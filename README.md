@@ -25,7 +25,6 @@ Graduate School of Education \
 Major in Mathematics Education
 
 > Correspondence: rocky777@hufs.ac.kr \
-URL: http://math.korea.ac.kr/$\sim$cfdkim/
 
 ### License
 
