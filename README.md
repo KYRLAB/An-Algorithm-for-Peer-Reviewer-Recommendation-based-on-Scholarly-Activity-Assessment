@@ -3,12 +3,6 @@ An Algorithm for Peer Reviewer Recommendation based on Scholarly Activity Assess
 
 ---
 
-<center>
-<img src="/image/an-algorithm-for-peer-reviewer-recommendation.png"  width="750" height="900">
-</center>
-
----
-
 ### Abstract
 > Journal editors are putting a lot of effort into selecting appropriate reviewers for fair and reliable peer review of submitted manuscripts. Editors consider whether the reviewers have sufficient expertise in reviewing the manuscripts and have no affinity with any of the authors of manuscripts. The affinity can be evaluated by whether any of the reviewers has been a coauthor and/or a coworker in a common institution with any of the authors of the manuscript. The expertise depends on the similarity of the research topic between the reviewer’s published papers and the submitted manuscripts. In this paper we propose an algorithm to recommend appropriate reviewers to editors, based on the assessment of these scholarly activities and achievements. To implement this algorithm, TextRank and GenSim library are used in order to extract feature sets from abstract and introduction sections of both submitted manuscripts and the reviewer candidates’ papers. And then based on the extracted feature sets, expertise and affinity check are implemented. To evaluate the performance of this algorithm, an experiment has been conducted with a data set of over 1,000 papers in the field of DB research. The experiment consists of expertise check based on Max Similarity and/or topic classification, and affinity check by using 2-mode network matrix operations. Experimental results show that the recommendation algorithm is reasonable on the basis of scholarly activity assessment.
 
