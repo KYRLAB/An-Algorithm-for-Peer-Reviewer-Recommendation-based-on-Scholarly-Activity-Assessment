@@ -10,13 +10,13 @@ An Algorithm for Peer Reviewer Recommendation based on Scholarly Activity Assess
 > Dong-Hoon Choi is a distinguished researcher in Korea Institute of Science and Technology Information. Young Rock Kim is a professor in Graduate School of Education, Hankuk University of Foreign Studies. Jin-Woo Hyun is a research fellows in Hankuk University of Foreign Studies.
 
 ### Declarations
-## Authors' contributions
+#### Authors' contributions
 > Dong-Hoon Choi conceived of the presented idea, designed the algorithms, provided critical feedback and wrote the manuscript. Young Rock Kim verified the analytical methods, supervised the whole process of experiment and wrote the manuscript. Jin-Woo Hyun prepared the code, carried out the experiment and recorded the results. Each author had participated sufficiently in the work. All authors read and approved the final manuscript.
 
-## subsection{Competing interests
+#### Competing interests
 > The authors declare that they have no competing interests.
 
-## subsection{Funding / Acknowledgments
+#### Acknowledgments
 > This work was supported by Institute of Information \& communications Technology Planning \& Evaluation (IITP) grant funded by the Korea government(MSIT) (No.2019-0-00659, Development of a Blockchain Application Platform for Open Peer Review to Improve Trustworthiness and Transparency for Scholarly Publishing) for the first author. This research was supported by Hankuk University of Foreign Studies Research Fund for Young Rock Kim.
 >This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. 2021 R1A2C1011467).
 
