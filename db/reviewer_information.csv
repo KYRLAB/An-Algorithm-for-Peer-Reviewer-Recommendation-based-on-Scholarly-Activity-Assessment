@@ -1,0 +1,980 @@
+reviewer_orcid,reviewer_name,reviewer_institution,reviewer_email,reviewer_advisor,reviewer_positive,reviewer_negative,count
+0000-0001-7025-1786,Aakash Goel,"Facebook, Inc.",,,1,1,0
+0000-0002-9062-6546,Hugo Firth,School of Computing Science Newcastle University,h.firth@ncl.ac.uk,,2,2,0
+0000-0001-7525-8450,Raphael Bonaque,"INRIA & U. Paris-Sud, France",raphael.bonaque@inria.fr,,3,3,0
+0000-0002-4839-1624,Abdullah Mueen,UC Riverside,mueen@cs.ucr.edu,,4,4,0
+0000-0002-9186-0270,Emre Sefer,"Lane Center of Computational Biology, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, USA",esefer@andrew.cmu.edu,,5,5,0
+0000-0001-9547-5137,Georgios J. Fakas,Department of Computer Science and Engineering HKUST Hong Kong,gfakas@cse.ust.hk,,6,6,0
+0000-0003-1932-8914,Jiefeng Cheng,"Huawei Noah's Ark Lab, Hong Kong",cheng.jiefeng@huawei.com,,7,7,0
+0000-0003-0632-1668,Oliver Kennedy,EPFL & Cornell University,oliver.kennedy@epfl.ch,,8,8,0
+0000-0001-9148-8280,Adam Silberstein,"Yahoo! Research Santa Clara, CA, USA",silberst@yahoo-inc.com,,0,0,0
+0000-0002-8271-9187,Stratos Idreos,CWI Amsterdam The Netherlands,idreos@cwi.nl,,1,1,0
+0000-0002-9614-0504,Wolfgang Gatterbauer,"University of Washington, Seattle",gatter@cs.washington.edu,,1,1,0
+0000-0002-3163-8846,Jiang Du,University of Toronto,jdu@cs.toronto.edu,,2,2,0
+0000-0002-7377-6868,Haohan Zhu,Department of Computer Science Boston University,zhu@cs.bu.edu,,0,0,0
+0000-0002-7156-4140,Kai Ren,Carnegie Mellon University,kair@cs.washington.edu,,1,1,0
+0000-0002-6340-7807,Jia Wang,Department of Computer Science and Engineering The Chinese University of Hong Kong,jwang@cse.cuhk.edu.hk,,2,2,0
+0000-0002-8604-9248,David C. Anastasiu,"University of Minnesota, Twin Cities, MN 55455, U.S.A.",dragos@cs.umn.edu,,3,3,0
+0000-0002-9882-5371,Jiexing Li,"Department of Computer Sciences University of Wisconsin - Madison 1210 West Dayton Street Madison, WI 53706 USA",jxli@cs.wisc.edu,,4,4,0
+0000-0002-0233-9871,Paras Mehta ,Freie Universit Berlin Germany  Dimitris Sacharidis Technische Universit?t Wien Austria,paras.mehta@fu-berlin.de dimitris@ec.tuwien.ac.at,,5,5,0
+0000-0003-0488-5283,Houtan Shirani-Mehr,Computer Science Dept. Univ. of Southern California,hshirani@usc.edu,,6,6,0
+0000-0003-1468-2455,Kenneth Fuglsang Christensen,"Department of Computer Science, Aalborg University",kchris08@student.aau.dk,,7,7,0
+0000-0001-8571-4931,Daichi Amagata,Department of Multimedia Engineering Graduate School of Information Science and Technology Osaka University,amagata.daichi@ist.osaka-u.ac.jp,,8,8,0
+0000-0002-4484-901X,Maheswaran Sathiamoorthy,University of Southern California,msathiam@usc.edu,,9,9,0
+0000-0001-6854-0204,Chen Zeng,"Department of Computer Science, University of Wisconsin-Madison, Madison, WI, 53706",zeng@cs.wisc.edu,,10,10,0
+0000-0003-4191-2738,Tova Milo,Tel Aviv University,milo@post.tau.ac.il,,0,0,0
+0000-0002-8730-938X,Fanwei Zhu,"Zhejiang University City College, China",zhufw@zucc.edu.cn,,1,1,0
+0000-0002-6303-2646,Yanif Ahmad,Johns Hopkins University,yanif@jhu.edu,,2,2,0
+0000-0003-3365-7511,Harold Lim,Duke University,harold@cs.duke.edu,,5,5,0
+0000-0002-5426-9940,Muhammad Farhan,"Australian National University Canberra, Australia",muhammad.farhan@anu.edu.au,,6,6,0
+0000-0003-2191-7304,Qiang Zeng,"Institute of Computing Technology, Chinese Academy of Sciences Beijing 100190, China",zengqiang@kg.ict.ac.cn,,0,0,0
+0000-0002-1319-3484,Essam Mansour,Math. & Computer Sciences and Engineering King Abdullah Univ. of Science and Technology,fname.lname@kaust.edu.sa,,0,0,0
+0000-0001-9239-7735,Meiyu Lu,School of Computing National University of Singapore,lumeiyu@comp.nus.edu.sg,,1,1,0
+0000-0002-3878-5988,Dimitrios Karapiperis,"Hellenic Open University School of Science and Technology Patras, Greece",dkarapiperis@eap.gr,,0,0,0
+0000-0001-9405-9617,Liang Xu,School of Computing National University of Singapore,xuliang@comp.nus.edu.sg,,1,1,0
+0000-0003-2194-4417,Vijay Ingalalli,"LIRMM, IRSTEA Montpellier, France",vijay@lirmm.fr,,2,2,0
+0000-0003-4559-9056,Svilen R. Mihaylov,"University of Pennsylvania Philadelphia, PA, USA",svilen@cis.upenn.edu,,3,3,0
+0000-0001-6284-9251,Parth Nagarkar,"School of Computing, Informatics, and Decision Systems Engineering Arizona State University Tempe, AZ 85287-8809, USA",nagarkar@asu.edu,,4,4,0
+0000-0003-1483-8229,Rakesh Pimplikar,"IBM Research New Delhi, India",rakesh.pimplikar@in.ibm.com,,5,5,0
+0000-0003-2163-2261,Danica Porobic,"Ecole Polytechnique Federale de Lausanne Lausanne, VD, Switzerland",danica.porobic@us.ibm.com,,6,6,0
+0000-0002-3160-4355,Zhenjie Zhang,"School of Computing, National University of Singapore, Singapore",zhenjie@comp.nus.edu.sg,,0,0,0
+0000-0002-0871-6658,Anupam Sanghi,"Indian Institute of Science Bangalore, India",anupam@dsl.cds.iisc.ac.in,,1,1,0
+0000-0001-9999-0574,Per-Ake Larson,Microsoft,palarson@microsoft.com,,2,2,0
+0000-0002-7312-6312,Arijit Khan,"Systems Group, ETH Zurich, Switzerland",arijit.khan@inf.ethz.ch,,0,0,0
+0000-0002-9992-6166,Zaiben Chen,"School of Information Technology & Electrical Engineering The University of Queensland, QLD 4072 Australia Â¡ÃOThe Chinese University of Hong Kong, Hong Kong, China",zaiben@itee.uq.edu.au,,0,0,0
+0000-0002-3460-0608,Khaled Elmeleegy,Turn Inc.,kelmeleegy@turn.com,,1,1,0
+0000-0001-7816-779X,Hyun Jin Moon,NEC Labs America,hjmoon@sv.nec-labs.com,,3,3,0
+0000-0002-9785-3581,Anastasia Ailamaki,EPFL,anastasia.ailamaki@epfl.ch,,4,4,0
+0000-0002-2627-0397,Bin Cao,"Teradata Corporation El Segundo, CA 90245 USA",bin.cao@teradata.com,,5,5,0
+0000-0003-2267-6020,Iraklis Psaroudakis,Ecole Polytechnique Federale de Lausanne,iraklis.psaroudakis@epfl.ch,,7,7,0
+0000-0002-7312-6312,Arijit Khan,"Computer Science University of California, Santa Barbara Hawthorne, NY",arijitkhan@cs.ucsb.edu,,0,0,0
+0000-0002-2744-7836,Carsten Binnig,ETH Zurich,binnigc@inf.ethz.ch,,2,2,0
+0000-0003-3296-7753,Vasilis Samoladas,"ECE, Technical University of Crete. IMIS, Athena R.C.",vsam@softnet.tuc.gr,,3,3,0
+0000-0003-4147-9372,Sayan Ranu,"Dept. of CSE IIT Madras Chennai, India.",sayan@cse.iitm.ac.in,,0,0,0
+0000-0002-2489-5705,Michael T. Goodrich,UC Irvine,goodrich@ics.uci.edu,,1,1,0
+0000-0002-3937-7839,Charu C. Aggarwal,"IBM T. J. Watson Research Center Yorktown Heights, New York, USA",charu@us.ibm.com,,2,2,0
+0000-0003-1828-290X,Sudeepa Roy,"University of Washington Seattle, WA, USA",sudeepa@cs.washington.edu,,3,3,0
+0000-0002-4682-7068,Dan Olteanu,"Computing Laboratory, Oxford University, Oxford, OX1 3QD, UK",dan.olteanu@comlab.ox.ac.uk,,4,4,0
+0000-0002-8835-430X,Kyriakos Mouratidis,School of Information Systems Singapore Management University,kyriakos@smu.edu.sg,,0,0,0
+0000-0002-2680-9145,Damian Bursztyn,"INRIA, France, Universite Paris-Sud, France, Universite Rennes 1 France","damian.burstztyn@inria.fr, damian.burstztyn@irisa.fr",,1,1,0
+0000-0002-1548-6803,Milos Nikolic,Ecole Polytechnique Federale de Lausanne,milos.nikolic@epfl.ch,,2,2,0
+0000-0001-9600-4150,Michael J. Franklin,"AMPLab, UC Berkeley",franklin@cs.berkeley.edu,,3,3,0
+0000-0001-8728-6264,Konstantina Bereta,National and Kapodistrian University of Athens Greece,konstantina.bereta@di.uoa.gr,,4,4,0
+0000-0003-4876-2859,Yasuko Matsubara,Kumamoto University,yasuko@cs.kumamoto-u.ac.jp,,5,5,0
+0000-0003-0834-3959,Jeff LeFevre,"University of California, Santa Cruz
+Humboldt-Universit?t zu Berlin
+AT&T Labs?Research
+University of Twente Enschede, The Netherlands
+School of Computing, National University of Singapore, Singapore 
+Purdue University, West Lafayette, IN
+University of Waterloo
+IBM Research Hawthorne, NY
+Informatics, University of Edinburgh & RCBD and SKLSDE Lab, Beihang University 
+Max-Planck Institute for Informatics Saarbr?cken, Germany 
+University of Washington, Seattle, WA, USA
+The Ohio State University
+ETH Zurich, Switzerland
+UC San Diego
+Mostrare, INRIA University of Lille, France
+Department of Computer Science, University of Massachusetts, Lowell
+Max Planck Institute for Informatics, Germany
+Stanford University Stanford, CA 
+University of California, Berkeley
+National University of Singapore
+Turn Inc.
+Database Systems Group, University of Marburg
+Aalborg University Aalborg, Denmark
+University Lyon 1 & CNRS Liris
+Fudan University, Shanghai, China, Microsoft Research Asia, Beijing, China
+Department of Computer Science and Engineering Hong Kong University of Science and Technology Clear Water Bay, Hong Kong
+School of Computing National University of Singapore
+""Centro Singular de Investigaci?n en Tecnolox?as da Informaci?n (CiTIUS), Universidade de Santiago de Compostela (USC)
+Santiago de Compostela, Spain""
+Department of Computer Science Purdue University West Lafayette, IN 47907
+Purdue University West Lafayette, IN
+Technion ? Israel Institute Of Technology
+National University of Singapore
+IBM Research Beijing, China
+Department of Computer Science and Engineering, University of Washington, Seattle, WA, USA
+Massachusetts Institute of Technology
+University of Waterloo +(15) Jagan Sankaranarayanan? Hakan HacÂ¦Â¬g?m?s? ? Junichi Tatemura ? Neoklis Polyzotis + Michael J. Carey % ? NEC Labs America, Cupertino, CA + University of California, Santa Cruz % University of California, Irvine",jlefevre@ics.uci.edu,,0,0,0
+0000-0001-6952-6957,Sang-Won Lee,"School of Info & Comm Engr Sungkyunkwan University Suwon 440-746, Korea",wonlee@ece.skku.ac.kr,,1,1,0
+0000-0002-6650-1831,Wenchao Zhou,University of Pennsylvania,wenchaoz@cis.upenn.edu,,0,0,0
+0000-0001-6859-1941,Nikos Bikakis,Athens Univ. of Econ. & Bus. Greece,,,1,1,0
+0000-0001-5091-1222,Yijou Chen,"ParAccel, Inc.  3 Results Way, Cupertino, CA 95014",joe.chen@paraccel.com,,2,2,0
+0000-0002-4499-7784,Philipp Schirmer,"bakdata GmbH Berlin, Germany",philipp.schirmer@bakdata.com,,3,3,0
+0000-0002-2091-6898,Alexander Kalinin,Brown University,akalinin@cs.brown.edu,,4,4,0
+0000-0002-9172-2265,"Cheng LongÂ¡ÃO, Raymond Chi-Wing WongÂ¡ÃO H. V. JagadishÂ¡ÃO",The Hong Kong University of Science and Technology,clong@cse.ust.hk,,5,5,0
+0000-0001-5729-6461,Jens Ehrlich,"Hasso-Plattner-Institute (HPI), Potsdam, Germany",jens.ehrlich@student.hpi.de,,6,6,0
+0000-0002-5152-3093,Jieying She,"Department of Computer Science and Engineering The Hong Kong University of Science and Technology Clear Water Bay, Kowloon, Hong Kong SAR, PR China",jshe@cse.ust.hk,,7,7,0
+0000-0003-1953-0434,Quoc Trung Tran Chee-Yong Chan Srinivasan Parthasarathy,National University of Singapore The Ohio State University,tqtrung@comp.nus.edu.sg,,8,8,0
+0000-0003-0337-0261,Aggeliki Dimitriou,"School of Electrical and Computer Engineering National Technical University of Athens, Greece",angela@dblab.ntua.gr,,9,9,0
+0000-0002-9369-2012,Eli Cortez,"Universidade Federal do Amazonas Manaus, AM, Brazil",eccv@dcc.ufam.edu.br,,0,0,0
+0000-0001-6265-9554,Chuan Lei,"Worcester Polytechnic Institute, Worcester, MA 01609, USA",chuanlei|rundenst|meltabakh@cs.wpi.edu,,1,1,0
+0000-0003-3663-8615,Souripriya Das,"Oracle  One Oracle Drive, Nashua, NH 03062",souripriya.das@oracle.com,,2,2,0
+0000-0001-8374-140X,"Miao Qiao, Lu Qin, Hong Cheng, Jeffrey Xu Yu, Wentao Tian","The Chinese University of Hong Kong, Hong Kong, China",mqiao@se.cuhk.edu.hk,,3,3,0
+0000-0002-8329-9145,Tilmann Zaschke,"Institute for Information Systems, Department of Computer Science ETH Zurich, Switzerland
+",zaeschke@inf.ethz.ch,,4,4,0
+0000-0002-9315-9883,Rajendra Shinde,"Stanford University. Stanford, CA USA",rbs@stanford.edu,,5,5,0
+0000-0002-7799-9794,Yu Lu,"Institute for Infocomm Research, A*STAR, Singapore",luyu@i2r.a-star.edu.sg,,6,6,0
+0000-0003-4147-9372,Sayan Ranu,"Department of Computer Science University of California Santa Barbara, 93106",sayan@cs.ucsb.edu,,0,0,0
+0000-0002-0765-4889,Rohan Khade,"George Mason University Fairfax, VA, USA",rkhade@gmu.edu,,0,0,0
+0000-0001-5178-8326,Stephen Tu,,MIT CSAIL,,1,1,0
+0000-0003-1395-261X,Hongzhi Yin,"Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University",bestzhi@pku.edu.cn,,0,0,0
+0000-0001-7248-0048,Yoshitaka Yamamoto,University of Yamanashi,yyamamoto@yamanashi.ac.jp,,1,1,0
+0000-0003-2305-0273,Zhao Cao,"IBM Research Beijing, China",caozhao@cn.ibm.com,,2,2,0
+0000-0003-2261-6407,Vasilis Verroios,Stanford University,verroios@stanford.edu,,4,4,0
+0000-0002-9634-7265,Ada Wai-Chee Fu,Dept. of Computer Science and Engineering The Chinese University of Hong Kong,adafu@cse.cuhk.edu.hk,,5,5,0
+0000-0002-6702-8425,Mohamed A. Sharaf,"ECE Department University of Toronto Toronto, Ontario, Canada",msharaf@eecg.toronto.edu,,6,6,0
+0000-0002-9205-9012,Jennie Duggan ,Brown University,,,7,7,0
+0000-0003-2671-7483,Zengfeng Huang,Hong Kong University of Science and Technology,huangzf@cse.ust.hk,,8,8,0
+0000-0003-3727-6003,About Data Exchange,Michael Johnson Macquarie University,Michael.Johnson@mq.edu.au,,10,10,0
+0000-0002-3852-7196,Rene R Veloso,"Universidade Est. Montes Claros, Brazil",rene.veloso@cs.rpi.edu,,11,11,0
+0000-0002-6221-8254,Kostas Zoumpatianos,University of Trento,zoumpatianos@disi.unitn.it,,12,12,0
+0000-0002-9582-869X,Angela Bonifati,"University of Lille & INRIA, France",angela.bonifati@inria.fr,,0,0,0
+0000-0003-0490-4034,Mona Ahuja ,"Yahoo!, Inc. ",,,1,1,0
+0000-0003-3550-4455,Yang Li,"University of California, Santa Barbara",yangli@cs.ucsb.edu,,0,0,0
+0000-0002-9953-8585,Florian M. Waas,Greenplum Inc.,flw@greenplum.com,,1,1,0
+0000-0003-4191-2738,Tova Milo,Tel Aviv University,milo@post.tau.ac.il,,0,0,0
+0000-0003-4726-4700,Jeffrey Pound,"University of Waterloo Waterloo, Canada",jpound@cs.uwaterloo.ca,,0,0,0
+0000-0001-7091-3073,Yuchen Li,"University of Singapore, Singapore",liyuchen@comp.nus.edu.sg,,1,1,0
+0000-0002-9990-0046,Aravind Yalamanchi,Oracle USA,Aravind.Yalamanchi@oracle.com,,2,2,0
+0000-0001-8583-6613,Peter Macko,"School of Engineering and Applied Sciences, Harvard University 33 Oxford Street, Cambridge, MA, USA, Oracle Labs 35 Network Drive, Burlington, MA, USA ",pmacko@eecs.harvard.edu,,3,3,0
+0000-0002-4471-2363,Nitin Gupta,"Cornell University Ithaca, NY 14853, USA",niting@cs.cornell.edu,,4,4,0
+0000-0002-0752-9877,Meihui Zhang,National University of Singapore,mhzhang@comp.nus.edu.sg,,5,5,0
+0000-0002-8929-2366,Vince Barany,"TU Darmstadt, Germany",barany@mathematik.tu-darmstadt.de,,6,6,0
+0000-0001-5663-6129,Nicole Bidoit,"Universite Paris Sud / Inria 91405 Orsay Cedex, France",bidoit@lri.fr,,7,7,0
+0000-0002-9623-9133,Theodoros Chondrogiannis,Free University of Bozen-Bolzano,tchond@inf.unibz.it,,8,8,0
+0000-0002-6101-900X,Faisal Nawab,"Department of Computer Science University of California, Santa Barbara Santa Barbara, CA 93106",nawab@cs.ucsb.edu,,0,0,0
+0000-0002-7117-6404,Ke Wang,"Simon Fraser University, Singapore Management University",wangk@cs.sfu.ca,,1,1,0
+0000-0001-7770-2834,Shiming Zhang,"Department of Computer Science The University of Hong Kong, Hong Kong",smzhang@cs.hku.hk,,2,2,0
+0000-0002-5586-1997,Christophe Claramunt,"Naval Academy Res. Inst. Lanv?oc, France",,,3,3,0
+0000-0003-4573-0114,Yuyang Dong,"Department of Computer Science University of Tsukuba Ibaraki, Japan",touuyou@gmail.com,,4,4,0
+0000-0001-6060-6352,Sebastian Schelter,Technische UniversitÂ¡Â§at Berlin ,Sebastian.Schelter@tu-berlin.de,,1,1,0
+0000-0003-2715-7107,Sumeet Bajaj,"Stony Brook University New York, USA",sbajaj@cs.stonybrook.edu,,0,0,0
+0000-0003-2005-9061,Siarhei Bykau,"Purdue University, USA",sbykau@purdue.edu,,2,2,0
+0000-0003-2106-3134,Jun Gao,"Key Laboratory of High Confidence Software Technologies, EECS, Peking University Â¡Â¹ Department of Computer Science, Kent State University ? Department of Systems Engineering & Engineering Management, Chinese University of Hong Kong",gaojun@se.cuhk.edu.hk,,0,0,0
+0000-0002-7470-2123,Thomas Heinis,"Data-Intensive Applications and Systems Laboratory, E?cole Polytechnique Fe?de?rale de Lausanne, Switzerland",thomas.heinis@epfl.ch,,1,1,0
+0000-0001-9252-2495,Christodoulos Efstathiades,European University Cyprus Cyprus,C.Efstathiades@euc.ac.cy,,2,2,0
+0000-0002-4538-4752,Aditya Parameswaran,"Computer Science Dept., Stanford University Stanford, CA - 94305, USA",adityagp@cs.stanford.edu,,3,3,0
+0000-0003-4233-3543,Lisi Chen,Nanyang Technological University,lchen012@e.ntu.edu.sg,,0,0,0
+0000-0001-8759-462X,Ke Wu,"Department of Computer Science & Engineering Shanghai Jiao Tong University, Shanghai, China",keer236@gmail.com,,1,1,0
+0000-0003-3122-7518,Dong-Wan Choi,"CS Department, KAIST, Daejeon, Korea",dongwan@islab.kaist.ac.kr,,0,0,0
+0000-0002-2164-9752,Yu Li,Department of Computing Hong Kong Polytechnic University,csyuli@comp.polyu.edu.hk,,1,1,0
+0000-0002-2521-5011,Shiwen Cheng,"Department of Computer Science & Engineering University of California, Riverside, California, USA",schen064@cs.ucr.edu,,0,0,0
+0000-0002-6431-5242,David Luaces," Centro Singular de Investigacion en Tecnoloxias da Informacion (CiTIUS), Universidade de Santiago de Compostela (USC) Santiago de Compostela, Spain",david.luaces@usc.es,,1,1,0
+0000-0002-7719-8938,Alexandros Efentakis,"Research Center ""Athena"" Artemidos 6 & Epidavrou, Marousi 15125, Greece",efentakis@imis.athena-innovation.gr,,2,2,0
+0000-0002-7264-8821,Oliver Arnold,"Vodafone Chair Mobile Communications Systems Technische Universit?t Dresden Dresden, Germany",,,3,3,0
+0000-0002-2274-6837,Avraham Shinnar,"IBM Research Hawthorne, NY",shinnar@us.ibm.com,,5,5,0
+0000-0002-9309-4899,Yaser Oulabi,"Data and Web Science Group, University Mannheim B6 26, 68159 Mannheim, Germany",yaser@informatik.uni-mannheim.de,,6,6,0
+0000-0002-1790-6357,Wei Feng,"Tsinghua National Laboratory for Information Science and Technology (TNList) Department of Computer Science and Technology, Tsinghua University, Beijing, China Â¡ÃO Department of Computer Science, University of Illinois at Urbana-Champaign, IL, USA Â¢Â®Â¡Â¿ IBM T. J. Watson Research Center, NY, USA \ Department of Computer Science, Xidian University, XiÂ¢Â® ?an, China",feng-w10@mails.tsinghua.edu.cn,,7,7,0
+0000-0002-7249-4316,Philipp Rosch,"SAP Research, SAP AG Chemnitzer Str. 48 01187 Dresden, Germany",philipp.roesch@sap.com,,8,8,0
+0000-0003-4974-445X,Rong-Hua Li,"Shenzhen University, Shenzhen, China",rhli@se.cuhk.edu.hk,,9,9,0
+0000-0002-5520-2270,Nathalie Charbel,"LE2I Lab. UMR-CNRS,  University of Bourgogne (UB),  21078 Dijon, France",nathaliecharbel@gmail.com,,10,10,0
+0000-0001-7205-5703,Nikos Pelekis,"Dept. of Statistics and Ins. Science  University of Piraeus  Piraeus, Greece",npelekis@unipi.gr,,11,11,0
+0000-0003-2278-9121,Daniel Tahara,Yale University,daniel.tahara@yale.edu,,13,13,0
+0000-0001-7189-2796,Fabian M. Suchanek,"INRIA Saclay - Ile-de-France 4 rue Jacques Monod 91893 Orsay Cedex, France",fabian@xsuchanek.name,,14,14,0
+0000-0001-5909-6084,Yuan Yuan,Department of Computer Science and Engineering The Ohio State University,yuanyu@cse.ohio-state.edu,,15,15,0
+0000-0002-3586-9406,Verena Kantere,"Cyprus University of Technology A. Kyprianos 31, P.O. Box 50329, 3603 Lemesos, Cyprus",verena.kantere@cut.ac.cy,,16,16,0
+0000-0001-6726-210X,Yuya Sasaki,"Graduate School of Information Science and Technology, Osaka University, Osaka, Japan Â¢Â®Â¡Â¿NTT Software Innovation Center, Tokyo, Japan",sasaki@ist.osaka,,0,0,0
+0000-0002-6194-4502,Sihem Amer-Yahia,CNRS and LIG,sihem.ameryahia@uw.edu,,0,0,0
+0000-0003-2194-9744,Xiaodong Li,"The University of Hong Kong, China",xdli@lri.fr,,1,1,0
+0000-0002-2276-3119,Kai Zheng,"School of Information Technology and Electrical Engineering The University of Queensland Brisbane 4072, Australia",kevinz@itee.uq.edu.au,,0,0,0
+0000-0003-3929-431X,Andrey Gubichev,TU Munchen Germany,gubichev@in.tum.de,,2,2,0
+0000-0001-6797-9960,Milad Eftekhar,Department of Computer Science University of Toronto,milad@cs.toronto.edu,,0,0,0
+0000-0001-7036-3809,Fei Li,"Univ. of Michigan, Ann Arbor",lifei@umich.edu,,1,1,0
+0000-0003-1861-0723,Arvind Arasu,"Microsoft Research One Microsoft Way Redmond, WA, USA",arvinda@microsoft.com,,0,0,0
+0000-0002-4339-2943,Lei Chang,Pivotal Inc, lchang@gopivotal.com,,1,1,0
+0000-0003-1861-0723,Arvind Arasu,Microsoft Research,arvinda@microsoft.com,,0,0,0
+0000-0001-5654-6764,Feng Zhao,School of Computing National U. of Singapore,zhaofeng@comp.nus.edu.sg,,0,0,0
+0000-0001-6537-1521,Yudian Zheng,"Department of Computer Science, University of Hong Kong, Pokfulam Road, Hong Kong",ydzheng2@cs.hku.hk,,2,2,0
+0000-0002-9580-740X,David Broneske,University of Magdeburg Germany,dbronesk@ovgu.de,,3,3,0
+0000-0002-4410-0682,Pablo Barrio,Columbia University,pjbarrio@cs.columbia.edu,,4,4,0
+0000-0002-4872-0520,Alberto Cordioli,Prometeia,alberto.cordioli@prometeia.com,,5,5,0
+0000-0002-8206-9719,Hyunjung Park,Stanford University,hyunjung@cs.stanford.edu,,0,0,0
+0000-0002-3623-8227,Prasang Upadhyaya,"Department of Computer Science and Engineering University of Washington Seattle, WA, USA",prasang@cs.uw.edu,,0,0,0
+0000-0003-2779-6080,Mohammad Sadoghi,"Exploratory Systems Lab University of California, Davis ",,,0,0,0
+0000-0002-8407-8563,Phokion G. Kolaitis,UC Santa Cruz and IBM Research - Almaden,kolaitis@cs.ucsc.edu,,1,1,0
+0000-0003-1865-9471,Marco D. Adelfio,"Center for Automation Research, Institute for Advanced Computer Studies Department of Computer Science, University of Maryland College Park, MD 20742 USA",marco@cs.umd.edu,,2,2,0
+0000-0003-3342-7804,Arko Provo Mukherjee,"Department of Electrical and Computer Engineering, Iowa State University 2215 Coover Hall, Ames, IA, USA",arko@iastate.edu,,3,3,0
+0000-0002-5168-0910,Abdallah Arioua,University Lyon 1 & CNRS Liris,abdallah.arioua@univ-lyon1.fr,,4,4,0
+0000-0003-4726-4700,Jeffrey Pound,"University of Waterloo Waterloo, Canada",jpound@cs.uwaterloo.ca,,0,0,0
+0000-0001-9162-7981,Gheorghi Guzun,"San Jose State University San Jose, California",gheorghi.guzun@sjsu.edu,,1,1,0
+0000-0002-2101-1484,Takanori Maehara,"JST, ERATO, Kawarabayashi Large Graph Project, Japan, Preferred Infrastructure, Inc 2-40-1, Hongo, Bunkyo-ku, Tokyo, Japan",maehara@nii.ac.jp,,2,2,0
+0000-0002-1587-0450,Julia Stoyanovich,"? Drexel University Philadelphia, PA",stoyanovich@drexel.edu,,3,3,0
+0000-0002-2825-8746,Steffen Rendle,"University of Konstanz 78457 Konstanz, Germany",steffen.rendle@uni-konstanz.de,,4,4,0
+0000-0002-0683-030X,Vasilis Efthymiou,IBM Research,vasilis.efthymiou@ibm.com,,5,5,0
+0000-0002-8985-156X,Erman Pattuk,"University of Texas at Dallas, Richardson, Texas USA",erman.pattuk@utdallas.edu,,6,6,0
+0000-0002-2229-2927,Haopeng Zhang,"School of Computer Science, University of Massachusetts Amherst",haopeng@cs.umass.edu,,0,0,0
+0000-0003-0784-8402,Manolis Terrovitis,"IMIS, Research Center 'Athena'",mter@imis.athena-innovation.gr,,1,1,0
+0000-0001-9326-3296,R. Uday Kiran,"The University of Tokyo, Tokyo, Japan",uday_rage@tkl.iis.u-tokyo.ac.jp,,1,1,0
+0000-0002-8543-8647,Ioannis Alagiannis,Ecole Polytechnique Federale de Lausanne,ioannis.alagiannis@epfl.ch,,2,2,0
+0000-0001-8899-4043,Jinsoo Lee,"School of Computer Science and Engineering Kyungpook National University, Korea",jslee@www-db.knu.ac.kr,,3,3,0
+0000-0003-2969-2269,Mostafa Ead,Amazon,,,5,5,0
+0000-0002-1602-6032,Karl Schnaitter,Teradata Aster,karl.schnaitter@teradata.com,,6,6,0
+0000-0003-2715-7107,Sumeet Bajaj,"Stony Brook Computer Science Stony Brook, New York, USA",sbajaj@cs.stonybrook.edu,,0,0,0
+0000-0001-5637-6224,Arjun Dasgupta,CSE Department UT Arlington,arjundasgupta@uta.edu,,0,0,0
+0000-0002-3484-5023,Emad Soroush,"Computer Science Department University of Washington Seattle, USA",soroush@cs.washington.edu,,1,1,0
+0000-0001-5149-2656,Wenfei Fan,University of Edinburgh,wenfei@inf.ed.ac.uk,,0,0,0
+0000-0002-8774-7638,Laura B. Kassner,Daimler AG 71059 Sindelfingen,laura_bernadette.kassner@daimler.com,,1,1,0
+0000-0003-0418-0785,Mirco Stern,"Mirco Stern Dept. of Computer Science KIT, Karlsruhe, Germany",Mirco.Stern@kit.edu,,2,2,0
+0000-0001-5405-2963,Thanh T. L. Tran,"University of Massachusetts, Amherst",ttran@cs.umass.edu,,0,0,0
+0000-0003-3883-5452,Yufei Tao,"Chinese University of Hong Kong Sha Tin, New Territories, Hong Kong",taoyf@cse.cuhk.edu.hk,,0,0,0
+0000-0002-9640-360X,Amit Goyal,"University of British Columbia Vancouver, BC, Canada",goyal@cs.ubc.ca,,1,1,0
+0000-0003-1689-0549,Haiquan Chen,"Haiquan Chen Dept. of CSSE Auburn University Auburn, AL, USA",chenhai@auburn.edu,,1,1,0
+0000-0003-1607-8999,Sudipto Das,"University of California Santa Barbara, CA, USA",sudipto@cs.ucsb.edu,,2,2,0
+0000-0002-9435-105X,Anshuman Dutt,"Database Systems Lab, SERC/CSA Indian Institute of Science, Bangalore, INDIA",anshuman@dsl.serc.iisc.ernet.in,,3,3,0
+0000-0001-6050-9122,Marina Barsky," Univ. of Victoria, BC, Canada",marina barsky@gmail.com,,4,4,0
+0000-0003-4551-6986,Cheng Sheng,Chinese University of Hong Kong,csheng@cse.cuhk.edu.hk,,5,5,0
+0000-0003-3497-042X,Bogdan Cautis,"Institut Mines-Te?le?com, Te?le?com ParisTech, CNRS LTCI, Paris, France",cautis@telecom-paristech.fr,,1,1,0
+0000-0002-0839-7669,Wang Lam,WalmartLabs,wlam@walmartlabs.com,,2,2,0
+0000-0003-3559-2475,Anup Chalamalla,University of Waterloo,akchalam@qf.org.qa,,4,4,0
+0000-0001-5110-8546,Zhen Hua Liu,"Oracle Corporation 500 Oracle Parkway Redwood Shores, CA 94065, USA",zhen.liu@oracle.com,,0,0,0
+0000-0003-2718-6274,Stephan Ewen,"Technische Universitat Berlin, Germany",Stephan.Ewen@tu-berlin.de,,1,1,0
+0000-0003-0530-2510,Daniel Fabbri,"Electrical Engineering & Computer Science, University of Michigan, 2260 Hayward Ave. Ann Arbor, MI 48109 USA",dfabbri@umich.edu,,2,2,0
+0000-0003-2823-6827,Dimitris Tsirogiannis,"University of Toronto Toronto, ON, Canada",dimitris@cs.toronto.edu,,0,0,0
+0000-0001-9660-7971,Zach Jorgensen,"North Carolina State University, USA",zjorgen@ncsu.edu ,,0,0,0
+0000-0001-5575-5484,Yingxia Shao,"Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University",simon0227@pku.edu.cn,,0,0,0
+0000-0002-9750-850X,Jiannan Wang,"AMPLab, UC Berkeley",wjn08@mails.tsinghua.edu.cn,,0,0,0
+0000-0002-6194-4502,Sihem Amer-Yahia,"Yahoo! Research New York, NY",sihem@yahoo-inc.com,,0,0,0
+0000-0001-9814-8828,Yazhe Wang,"School of Information Systems Singapore Management University Singapore, 178902",yazhe.wang.2008@phdis.smu.edu.sg,,1,1,0
+0000-0002-4127-8573,Zsolt Istv?n,"Systems Group, Dept. of Computer Science ETH Z?rich, Switzerland",Zsolt.Istv?n@inf.ethz.ch,,2,2,0
+0000-0002-1255-3441,Wai Kit Wong,Hang Seng Management College,wongwk@hsmc.edu.hk,,0,0,0
+0000-0002-6615-7233,Yanyan Shen,National University of Singapore,shenyanyan@comp.nus.edu.sg ,,1,1,0
+0000-0002-2229-2927,Haopeng Zhang,"College of Information and Computer Sciences, University of Massachusetts Amherst",haopeng@cs.umass.edu,,0,0,0
+0000-0001-5456-7035,Wen Hua,"School of Information, Renmin University of China, Beijing, China",huawen@ruc.edu.cn,,1,1,0
+0000-0002-4028-1391,Sebastian Kruse,"Hasso Plattner Institute (HPI), Germany",sebastian.kruse@hpi.de,,2,2,0
+0000-0002-5357-1099,Nurzhan Bakibayev,"Department of Computer Science, University of Oxford, OX1 3QD, UK",nurzhan.bakibayev@cs.ox.ac.uk,,3,3,0
+0000-0001-7352-2035,Sutanay Choudhury,"Pacific Northwest National Laboratory, USA",sutanay.choudhury@pnnl.gov,,5,5,0
+0000-0001-5676-8017,Viktor Leis,Technische Universit?t M?nchen,leis@in.tum.de,,6,6,0
+0000-0001-8575-9638,Changbin Liu,University of Pennsylvania,changbl@bbn.com,,1,1,0
+0000-0001-5765-6551,Chih-Ya Shen,"National Tsing Hua University, Hsinchu, Taiwan",chihya@cs.nthu.edu.tw,,2,2,0
+0000-0002-8843-9717,Shengzhi Xu,"State Key Laboratory of Networking and Switching Technology Beijing University of Posts and Telecommunications, Beijing, China",dear_shengzhi@bupt.edu.cn,,3,3,0
+0000-0001-7309-6865,Abhay Jha,"Smart Forecasting, @WalmartLabs USA",ajha@cs.utexas.edu,,0,0,0
+0000-0003-3467-7311,Zitong Chen,"Sun Yat-Sen University, China",,,1,1,0
+0000-0002-2435-225X,Raman Grover,"Department of Computer Science, University of California- Irvine, CA, 92697",ramang@ics.uci.edu,,2,2,0
+0000-0001-7744-3799,Anjan Kumar Amirishetty,"Oracle Corporation 500 Oracle Parkway Redwood Shores, CA 94065, U.S.A. ",Anjan.Kumar.Amirishetty@oracle.com,,3,3,0
+0000-0001-9444-657X,Jens Krueger,"Hasso-Plattner-Institute, Potsdam, Germany",Jens.Krueger@hpi.uni-potsdam.de,,4,4,0
+0000-0003-1214-2412,Dritan Bleco,"Athens University of Economics and Business 76 Patission Street Athens, Greece",dritanbleco@aueb.gr,,6,6,0
+0000-0001-6388-1245,Zheng Li,"Department of Computer Science, University of Massachusetts, Lowell",zli@cs.uml.edu,,7,7,0
+0000-0003-1963-7442,Manoj K Agarwal,"Microsoft Bing  Search Technology Center - India  Hyderabad ? 500032, India",agarwalm@microsoft.com,,0,0,0
+0000-0001-7281-4618,Khai Q. Tran,Oracle Labs,khai.x.tran@oracle.com,,1,1,0
+0000-0002-0574-1460,Yu Xu,"San Diego, CA, USA",yu.xu@teradata.com,,2,2,0
+0000-0002-9992-6166,Zaiben Chen,"School of Information Technology & Electrical Engineering The University of Queensland, QLD 4072 Australia",zaiben@itee.uq.edu.au,,0,0,0
+0000-0003-0939-2621,Manish Kesarwani,"IBM Research India Bangalore, India",,,1,1,0
+0000-0001-8970-4001,Vinayak Borkar,"BEA Systems San Jose, CA, USA",mjcarey@oracle.com,,0,0,0
+0000-0001-8844-8165,Alekh Jindal,"Information Systems Group, Saarland University",,,1,1,0
+0000-0002-1200-0708,Xiaoyong Chai,University of Wisconsin-Madison,,,2,2,0
+0000-0002-3036-6201,Nikolaus Augsten,"University of Salzburg Salzburg, Austria",nikolaus.augsten@sbg.ac.at,,1,1,0
+0000-0001-5149-2656,Wenfei Fan,"Informatics, University of Edinburgh & RCBD and SKLSDE Lab, Beihang University",wenfei@inf.ed.ac.uk,,0,0,0
+0000-0003-1719-5855,Thanh Nguyen,1University of Utah 2UFRGS-Brazil 3NYU Poly,thanhnh@cs.utah.edu,,1,1,0
+0000-0003-2779-6080,Mohammad Sadoghi,"Department of Computer Science University of Toronto, Canada",mo@cs.toronto.edu,,0,0,0
+0000-0003-3384-4579,Martin Kaufmann,"Systems Group, ETH Zurich, Switzerland",martinka@inf.ethz.ch,,0,0,0
+0000-0002-2760-589X,Victor Zakhary,"University of California, Santa Barbara, CA 93106",victorzakhary@cs.ucsb.edu,,1,1,0
+0000-0001-8707-3410,Michael A. Bender,,bender@cs.stonybrook.edu,,2,2,0
+0000-0002-4766-1696,Dan R. K. Ports,"MIT CSAIL 32 Vassar St. Cambridge, MA 02139",drkp@csail.mit.edu,,1,1,0
+0000-0002-3227-903X,Adam Marcus,MIT CSAIL,marcua@csail.mit.edu,,0,0,0
+0000-0002-2730-8393,Woon-Hak Kang,"Sungkyunkwan University Suwon, 440-746, Korea",woonagi319@skku.edu,,0,0,0
+0000-0003-4733-6268,Feifei Li,"Department of Computer Science, FSU Tallahassee, FL, USA",lifeifei@cs.fsu.edu,,1,1,0
+0000-0001-7874-1915,Brian E. Ruttenberg,"University of California, Santa Barbara Santa Barbara, CA, USA",berutten@cs.ucsb.edu,,2,2,0
+0000-0001-6278-6182,K. SelcÂ¢Â¬uk Candan,"Arizona State University Tempe, AZ, USA",candan@asu.edu,,3,3,0
+0000-0001-8711-5908,Fangjin Yang ,"Metamarkets Group, Inc.",fangjin@metamarkets.com,,4,4,0
+0000-0001-5330-6255,Gabriel Bender,"Cornell University Ithaca, NY 14853, USA",gbender@cs.cornell.edu,,1,1,0
+0000-0002-2503-187X,Yang Wu,"Chinese University of Hong Kong Shatin, Hong Kong, China",yangwu@cse.cuhk.edu.hk,,2,2,0
+0000-0002-5928-9449,Stephan M?ller,"Hasso Plattner Institute Potsdam, Germany",stephan.mueller@hpi.de,,3,3,0
+0000-0001-7558-5398,Georgios Kellaris,"Department of Computer Science and Engineering Hong Kong University of Science and Technology Clear Water Bay, Hong Kong",gkellaris@cse.ust.hk,,4,4,0
+0000-0002-7312-6312,Arijit Khan,"Systems Group, ETH Zurich",,,0,0,0
+0000-0002-4576-9708,Majed Sahli,"King Abdullah University of Science & Technology, Thuwal, Saudi Arabia",majed.sahli@kaust.edu.sa,,1,1,0
+0000-0002-2254-8814,James Cheng,"Nanyang Technological University, Singapore",j.cheng@acm.org,,0,0,0
+0000-0002-3046-0193,Hoang Vu Nguyen,"Karlsruhe Institute of Technology (KIT), Germany",hoang.nguyen@kit.edu,,1,1,0
+0000-0002-6118-5227,Dimitrios Skoutas,"IMIS, Athena R.C., Greece",dskoutas@imis.athena-innovation.gr,,2,2,0
+0000-0002-9369-2012,Eli Cortez,"Universidade Federal do Amazonas Departamento de Ci?ncia da Computa??o Manaus, AM, Brazil",eccv@dcc.ufam.edu.br,,0,0,0
+0000-0002-6036-248X,Mingjie Tang,"Computer Science, Purdue University",tang49@qf.org.qa,,1,1,0
+0000-0003-4210-2470,Xingcan Cui,"Shandong University, China",xccui@mail.sdu.edu.cn,,2,2,0
+0000-0002-0616-4095,Kasper Mullesgaard,"Department of Computer Science, Aalborg University, Denmark",jmzebub@gmail.com@cs.aau.dk,,3,3,0
+0000-0002-2947-9516,Evan P. C. Jones,"MIT CSAIL Cambridge, MA, USA",evanj@csail.mit.edu,,4,4,0
+0000-0003-1207-312X,Pirooz Chubak,Department of Computing Science University of Alberta,pchubak@ualberta.ca,,5,5,0
+0000-0003-2109-8003,Jing Wang,"School of Computing Science University of Glasgow, UK",j.wang.3@research.gla.ac.uk,,0,0,0
+0000-0001-5451-622X,George A. Vouros,"University of Piraeus, Greece",georgev@unipi.gr,,1,1,0
+0000-0003-1209-7738,Konstantinos Mamouras,"Cornell University Ithaca, NY 14853, USA",mamouras@cs.cornell.edu,,2,2,0
+0000-0003-1200-7368,Weiguo Zheng,"Peking University, China",zhengweiguo@pku.edu.cn,,3,3,0
+0000-0002-0477-7429,Thomas Neumann,"Max-Planck Institute for Informatics Saarbr?cken, Germany",neumann@mpi-inf.mpg.de,,0,0,0
+0000-0002-0566-1540,Moritz Kaufmann,Technical University of Munich,kaufmanm@in.tum.de,,1,1,0
+0000-0002-6737-4168,Yucheng Low,Carnegie Mellon University,ylow@cs.cmu.edu,,2,2,0
+0000-0002-5728-1670,Jie Xu,"Dept. of Computer Science, University of Irvine Irvine, California, USA",jiex@uci.edu@ics.uci.edu,,3,3,0
+0000-0001-7379-8955,Di Chen,"Hong Kong University of Science and Technology, Hong Kong, China",,,4,4,0
+0000-0002-9410-9394,Yupeng Fu,UC San Diego,yupeng@cs.ucsd.edu,,0,0,0
+0000-0001-5079-6447,Wenlu Wang,"Department of Computer Science and Software Engineering, Auburn University, Auburn, AL, USA",wenluwang@csie.ncu.edu.tw,,1,1,0
+0000-0001-6038-2897,Lian Liu,"The Hong Kong University of Science and Technology Kowloon, Hong Kong",lyanliu@cse.ust.hk,,1,1,0
+0000-0003-2109-8003,Jing Wang,"School of Computing Science University of Glasgow, UK",j.wang.3@research.gla.ac.uk,,0,0,0
+0000-0001-6163-6625,Julian Shun,"Computer Science Department, Carnegie Mellon University, USA",jshun@mahidol.edu,,1,1,0
+0000-0003-4270-5239,Mehdi Kargar,"Department of Electrical Engineering and Computer Science, Lassonde School of Engineering York University, Toronto, Canada",kargar@cse.yorku.ca,,1,1,0
+0000-0003-1372-7455,Marios Meimaris,"University of Thessaly, 2ATHENA Research Center, Greece",m.meimaris@imis.athena-innovation.gr,,11,11,0
+0000-0002-0698-0922,Graham Cormode,AT&T Labs-Research,graham@research.att.com,,0,0,0
+0000-0001-7465-2608,Puya Memarzia,"Faculty of Computer Science, University of New Brunswick, Fredericton, Canada",pmemarzi@unb.ca,,1,1,0
+0000-0002-7925-0824,Sorabh Gandhi,UC Santa Barbara,sorabh@cs.ucsb.edu,,1,1,0
+0000-0001-7647-7874,Karin Murthy,IBM Research - India,karinmur@in.ibm.com,,1,1,0
+0000-0003-1684-207X,Yuhong Li,"Department of Computer and Information Science, University of Macau Av. Padre Tomas Pereira Taipa, Macau",yb27407@umac.mo,,1,1,0
+0000-0002-1961-9167,Akrivi Vlachou,"Norwegian University of Science and Technology (NTNU), Trondheim, Norway",vlachou@cs.ucsc.edu,,1,1,0
+0000-0003-1953-0434,Quoc Trung Tran,"Department of Computer Science, School of Computing National University of Singapore",tqtrung@comp.nus.edu.sg,,1,1,0
+0000-0001-8110-3869,Luis L. Perez,"Rice University Houston, TX, 77005",lp6@rice.edu,,1,1,0
+0000-0001-5654-6764,Feng Zhao,School of Computing National University of Singapore,zhaofeng@comp.nus.edu.sg,,0,0,0
+0000-0001-7278-0112,Marios Hadjieleftheriou,"AT&T Labs ? Research Florham Park, NJ, USA",marioh@research.att.com,,1,1,0
+0000-0003-2388-5262,Ahmed Radwan,University of Miami,a.radwan@umiami.edu,,1,1,0
+0000-0001-7715-1008,Henrietta Dombrovskaya,"Enova  200 W. Jackson Blvd.  Chicago, IL 60606",hdombrovskaya@enova.com,,1,1,0
+0000-0002-1074-6223,John Cieslewicz,"Department of Computer Science, Columbia University, New York NY",johnc@columbia.edu,,1,1,0
+0000-0003-1119-5993,Dimitris Bilidas,National and Kapodistrian University of Athens Greece,d.bilidas@di.uoa.gr,,1,1,0
+0000-0002-9487-9540,Spyros Blanas,Computer Sciences Department University of Wisconsin-Madison,sblanas@cs.wisc.edu,,0,0,0
+0000-0003-1979-6021,Arlei Silva,"Computer Science Department, University of California, Santa Barbara, CA, USA",arlei@cs.ucsb.edu,,0,0,0
+0000-0002-8650-8213,Akhil Arora,"Dept. of Computer Science and Engineering, Indian Institute of Technology, Kanpur, India",aarora@cse.iitk.ac.in,,2,2,0
+0000-0001-7301-1550,Florian Funke,"TU Mu ?nchen Munich, Germany",florian.funke@in.tum.de,,2,2,0
+0000-0002-0316-3193,Ashish Thusoo,Facebook,athusoo@facebook.com,,2,2,0
+0000-0002-9071-9531,J.W. Zhang,National University of Singapore,jiangwei@nus.edu.sg,,2,2,0
+0000-0001-5149-2656,Wenfei Fan,University of Edinburgh,wenfei@inf.ed.ac.uk,,0,0,0
+0000-0001-8825-589X,Partha Pratim Talukdar,"University of Pennsylvania Philadelphia, PA, USA",partha@cis.upenn.edu,,3,3,0
+0000-0002-2823-4488,Ge Luo,HKUST,,,3,3,0
+0000-0003-4989-6234,Mayank Sachan,"Dept. of Computer Science and Engineering Indian Institute of Technology, Kanpur INDIA",mayasac@cse.iitk.ac.in,,3,3,0
+0000-0003-2708-3961,Andrew Pavlo Erik Paulson Alexander Rasin,Brown University University of Wisconsin Brown University,pavlo@cs.brown.edu,,3,3,0
+0000-0002-0959-5106,Pawel Terlecki,"Microsoft SQL Server One Microsoft Way, Redmond, WA 98052",pawelt@microsoft.com,,3,3,0
+0000-0003-0912-6892,Foteini Alvanaki,"Saarland University Saarbr?cken, Germany",alvanaki@mmci.uni-saarland.de,,3,3,0
+0000-0001-9660-7971,Zach Jorgensen,"North Carolina State University 890 Oval Dr. Raleigh, NC",zjorgen@ncsu.edu,,0,0,0
+0000-0002-7106-4824,Wei Lu,National University of Singapore,luwei1@comp.nus.edu.sg,,4,4,0
+0000-0002-9508-8935,Scott Meyer,"Metaweb Technologies Inc. 631 Howard St., Suite 400 San Francisco, CA 94105",sm@metaweb.com,,4,4,0
+0000-0001-7681-3807,Xiang Lian,"Department of Computer Science and Engineering The Hong Kong University of Science and Technology Hong Kong, China",xlian@cse.ust.hk,,0,0,0
+0000-0002-4559-5373,Xuan Liu,"School of Computing, National University of Singapore, Singapore",(15){liuxuan@comp.nus.edu.sg,,5,5,0
+0000-0003-3099-6470,Architectures,"Antony S. Higginson Oracle Advanced Customer Support Services Didsbury, Manchester, UK",antony.higginson@oracle.com,,6,6,0
+0000-0003-2260-3008,Gregor Joss?,"Institute for Informatics, Ludwig-Maximilians-University Munich Oettingenstr. 67, 80538 Munich, Germany",josse@dbs.ifi.lmu.de,,1,1,0
+0000-0003-0856-0814,Mohan Yang,"Microsoft Research Asia, Beijing, China",mh.yang.sjtu@auburn.edu,,0,0,0
+0000-0001-9843-5560,Jiaqi Zhai,"Cornell University Ithaca, NY",jz392@cornell.edu,,2,2,0
+0000-0002-4115-3025,Nikolay Laptev,"University of California, Los Angeles",nlaptev@cs.ucla.edu,,3,3,0
+0000-0002-4547-5312,Hatem A. Mahmoud,"University of Waterloo Waterloo, ON, Canada",hamahmoud@cs.uwaterloo.ca,,4,4,0
+0000-0002-1255-3441,Wai Kit Wong,"Department of Computing, Hang Seng Management College",wongwk@cs.hku.hk,,0,0,0
+0000-0002-5816-3959,Rong Zhang,"Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, China",rzhang@sei.ecnu.edu.cn,,1,1,0
+0000-0002-9410-9394,Yupeng Fu,UC San Diego,yupeng.fu@gmail.com,,0,0,0
+0000-0002-7122-7603,Ce Zhang,"University of Wisconsin-Madison, USA",czhang@cs.wisc.edu,,2,2,0
+0000-0003-4316-4032,Victor Alvarez,"Information Systems Group, Saarland University",alvarez@cs.uni-saarland.de,,3,3,0
+0000-0003-0673-1632,Albert Angel,University of Toronto,albert@cs.toronto.edu,,0,0,0
+0000-0003-4172-6169,Wanyun Cui,"Shanghai Key Laboratory of Data Science, Fudan University, Shanghai, China",wanyuncui1@gmail.com,,4,4,0
+0000-0001-6938-0820,Khalid Belhajjame,"PSL, Universit? Paris Dauphine, LAMSADE 75016 Paris, France",Khalid.Belhajjame@dauphine.fr,,5,5,0
+0000-0003-1344-4260,Sudip Roy," Google Research Mountain View, CA 94043, USA",sudipr@google.com,,6,6,0
+0000-0002-9750-850X,Jiannan Wang,"UC Berkeley Berkeley, CA, USA",jnwang@eecs.berkeley.edu,,0,0,0
+0000-0003-3776-287X,Bo Tang,The Hong Kong Polytechnic University,csbtang@comp.polyu.edu.hk,,1,1,0
+0000-0003-0665-8623,Markus Dreseler,"Matthias Uflacker, Hasso Plattner Hasso Plattner Institute Potsdam, Germany",MarkusDreseler@hpi.de,,2,2,0
+0000-0001-8002-1503,Sheng Huang,IBM China Research Lab,huangssh@cn.ibm.com ,,3,3,0
+0000-0002-0465-1551,Jieming Shi,"Department of Computer Science, The University of Hong Kong Pokfulam Road, Hong Kong",jmshi@cs.hku.hk,,4,4,0
+0000-0003-2755-0523,Immanuel Trummer,?cole Polytechnique F?d?rale de Lausanne,Immanuel.Trummer@epfl.ch,,1,1,0
+0000-0002-7116-3152,Peng Sun,Arizona State University,peng.sun@asu.edu1,,23,23,0
+0000-0003-2002-3026,Rani Qumsiyeh,"Computer Science Dept. Brigham Young University Provo, Utah 84602, U.S.A.",rani qumsiyeh@yahoo.com,,2,2,0
+0000-0002-1160-7276,Stefan Sprenger,"Humboldt-Universit?t zu Berlin Berlin, Germany",sprengsz@informatik.hu-berlin.de,,1,1,0
+0000-0002-1084-4990,Nikos Sarkas,"? University of Toronto Toronto, ON, Canada",nsarkas@cs.toronto.edu,,2,2,0
+0000-0002-6323-9081,Kalin Kanov,"Department of Computer Science IDIES Johns Hopkins University Baltimore, MD 21218",kalin@cs.jhu.edu,,4,4,0
+0000-0001-7309-6865,Abhay Jha,"University of Washington Seattle, WA 98195?2350",abhaykj@cs.washington.edu,,0,0,0
+0000-0002-7639-3176,Zhao Sun,Fudan University,zixiaojindao@gmail.com,,1,1,0
+0000-0003-3045-3513,Kumar Sricharan,Palo Alto Research Center,sricharan.kumar@parc.com,,2,2,0
+0000-0002-5715-5092,Chunyao Song,"Department of Computer Science, University of Massachusetts, Lowell, MA, USA",csong@cs.uml.edu,,3,3,0
+0000-0002-1270-8220,Mozhgan Memari,"Department of Computer Science University of Auckland, New Zealand",m.memari@auckland.ac.nz,,4,4,0
+0000-0002-8578-1533,Sailesh Krishnamurthy,"Truviso, Inc. 1065 E.Hillsdale Blvd, Suite #230, Foster City, CA 94404",,,5,5,0
+0000-0001-6654-4367,Gregory Buehrer,Microsoft,buehrer@microsoft.com,,1,1,0
+0000-0002-1792-7879,Shahram Ghandeharizadeh,"Computer Science Department University of Southern California Los Angeles, California 90089",,,2,2,0
+0000-0001-9267-7825,Henning K?hler,"School of Information Technology and Electrical Engineering, The University of Queensland, Australia",henning@itee.uq.edu.au,,3,3,0
+0000-0001-5149-2656,Wenfei Fan,University of Edinburgh,wenfei@inf.ed.ac.uk,,0,0,0
+0000-0002-8543-8647,Ioannis Koltsidas,"IBM Research - Zurich, Zurich, Switzerland",Zurich@zurich.ibm.com,,4,4,0
+0000-0002-0133-4964,K. Tuncay Tekle,"LogicBlox, Inc. Atlanta, GA",tuncay@cs.sunysb.edu,,2,2,0
+0000-0001-9749-6951,Robert Isele,"Web-based Systems Group Freie Universita?t Berlin Garystr. 21, 14195 Berlin, Germany",mail@robertisele.com,,2,2,0
+0000-0002-3385-7989,Joachim Selke,"Institut f?r Informationssysteme Technische Universit?t Braunschweig Braunschweig, Germany",selke@ifis.cs.tu-bs.de,,3,3,0
+0000-0001-9148-8280,Adam Silberstein,"Yahoo! Research Santa Clara, CA, USA",silberst@yahoo-inc.com,,0,0,0
+0000-0001-6731-6171,Jonathan Finger,? Univ. of California Santa Cruz,jfinger@soe.ucsc.edu,,1,1,0
+0000-0003-2471-414X,Chuanfei Xu,Department of Computing The Hong Kong Polytechnic University,csxchuanfei@comp.polyu.edu.hk,,2,2,0
+0000-0001-6440-9436,Liping Peng,"School of Computer Science University of Massachusetts, Amherst",Email: lppeng@cs.umass.edu,,3,3,0
+0000-0002-9913-6180,Haichuan Shang,"Institute of Industrial Science, The University of Tokyo, Japan",shang@tkl.iis.u-tokyo.ac.jp,,0,0,0
+0000-0002-9045-203X,Grzegorz Malewicz,"Google, Inc. ",malewicz@google.com,,1,1,0
+0000-0002-2525-7596,Daniel Schall,"Databases and Information Systems Group University of Kaiserslautern, Germany",schall@cs.uni-kl.de,,1,1,0
+0000-0002-4129-4127,Yohan J. Roh,"SAIT, Samsung Electronics",yohan.roh@samsung.com,,1,1,0
+0000-0003-0438-3507,Yuting Lin,National University of Singapore,lin36@comp.nus.edu.com,,1,1,0
+0000-0003-1784-5088,Songyun Duan,"IBM Research - Thomas J. Watson Research Ctr. 19 Skyline Dr Hawthorne, New York",sduan@us.ibm.com,,1,1,0
+0000-0003-0986-8669,Lukasz Golab,"AT&T Labs ? Research 180 Park Avenue, Florham Park, NJ, USA 07950",lgolab@research.att.com,,0,0,0
+0000-0001-7983-9826,Dongzhe Ma,"Department of Computer Science and Technology Tsinghua University, Beijing 100084, P.R. China",mdzf rst@tsinghua.edu.cn,,2,2,0
+0000-0002-1185-5165,Jian Dai,"University of Chinese Academy of Sciences, Beijing, China, Institute of Software, Chinese Academy of Sciences, Beijing, China",daijian@nfs.iscas.ac.cn,,3,3,0
+0000-0001-5517-7768,Pavel Senin,University of HawaiÂ¢Â®i at Ma?noa Collaborative Software Development Laboratory,senin@hawaii.edu,,4,4,0
+0000-0001-6094-6373,Hicham G. Elmongui*,Purdue University,elmongui@cs.purdue.edu,,1,1,0
+0000-0001-6251-3483,Yuan Mei,"MIT CSAIL Cambridge, MA, USA",meiyuan@csail.mit.edu,,2,2,0
+0000-0001-5990-6585,Mo Liu,"Worcester Polytechnic Institute, Worcester, MA 01609, USA ",liumo@cs.wpi.edu,,1,1,0
+0000-0003-3093-4309,Hina A. Khan,"The University of Queensland Queensland, Australia",h.khan3@uq.edu.au,,2,2,0
+0000-0002-8060-0772,Fabian Nagel,"University of Edinburgh, UK",F.O.Nagel@sms.ed.ac.uk,,3,3,0
+0000-0003-0802-4069,Joseph M. Hellerstein,Joseph M. Hellerstein,hellerstein@berkeley.edu,,1,1,0
+0000-0003-3308-1591,Per-?ke Larson,Microsoft,palarson@microsoft.com,,3,3,0
+0000-0002-4820-8535,Ting Deng,"Big Data Research Center and SKLSDE Lab, Beihang University",dengting@act.buaa.edu.cn,,4,4,0
+0000-0001-8252-5270,Surajit Chaudhuri,Microsoft Research,surajitc@microsoft.com,,0,0,0
+0000-0003-2782-1397,George Tsatsanifos,Knowledge and Database Systems Laboratory National Technical University of Athens,gtsat@dblab.ntua.ece.gr,,0,0,0
+0000-0001-6449-4271,Bhargav Kanagal,"Dept. of Computer Science, University of Maryland, College Park MD 20742",bhargav@cs.umd.edu,,0,0,0
+0000-0002-0218-0661,Radu Stoica,?cole Polytechnique F?d?rale de Lausanne,radu.stoica@epfl.ch,,1,1,0
+0000-0002-3047-0295,Long Yuan,"The University of New South Wales, Australia",longyuan@cse.unsw.edu.au,,2,2,0
+0000-0002-8441-3974,Yun Chi,NEC Laboratories America,ychi@nec-labs.com,,3,3,0
+0000-0001-6040-6991,Andrew Pavlo,Brown University,pavlo@cs.brown.edu,,4,4,0
+0000-0002-2705-8427,Ramanujam Halasipuram,IBM Research India,ramanujam.s@in.ibm.com,,1,1,0
+0000-0002-2538-5846,Balder ten Cate,UC Santa Cruz Google,btencate@ucsc.edu,,2,2,0
+0000-0002-2778-0954,Arun Kumar,University of Wisconsin-Madison,arun@cs.wisc.edu,,3,3,0
+0000-0001-6419-931X,Steven Euijong Whang,Stanford University,swhang@cs.stanford.edu,,0,0,0
+0000-0002-7586-0932,Emiran Curtmola,UC San Diego,ecurtmola@cs.ucsd.edu,,2,2,0
+0000-0002-8634-7595,Xiaochun Yang,College of Information Science and Engineering Northeastern University Liaoning 110819 China,yangxc@mail.neu.edu.cn,,3,3,0
+0000-0003-2139-9121,Muhammad Aamir Cheema,"Clayton School of Information Technology, Monash University, Australia",aamir.cheema@monash.edu,,1,1,0
+0000-0001-6449-4271,Bhargav Kanagal,co-first authors,kbhargav@yahoo-inc.com,,0,0,0
+0000-0001-5872-7809,Muhammad Anis Uddin Nasir,"KTH Royal Institute of Technology, Stockholm, Sweden",anisu@kth.se,,2,2,0
+0000-0002-5932-0477,Eleftherios Tiakas,"Dept. of Informatics Aristotle University of Thessaloniki Thessaloniki, Greece",tiakas@csd.auth.gr,,3,3,0
+0000-0002-4290-891X,Theodore Johnson,"AT&T Labs - Research 180 Park Avenue. Bldg. 103 Florham Park, NJ, USA",johnsont@research.att.com,,1,1,0
+0000-0001-5689-0768,Yu Cao,"EMC Labs, China",yu.cao@emc.com,,23,23,0
+0000-0001-5316-6002,Ye Yuan,"College of Information Science and Engineering, Northeastern University, China",yuanye@ise.neu.edu.cn,,4,4,0
+0000-0001-8252-5270,Surajit Chaudhuri,Microsoft Research,,,0,0,0
+0000-0002-5441-0318,Daisy Zhe Wang,"University of California, Berkeley",,,1,1,0
+0000-0000-0000-0000,JinhaKim,"Pohang University of Science and Technology (POSTECH Pohang, South Korea",goldbar@postech.ac.kr,,1,1,0
+0000-0002-5055-4568,Evica Milchevski,"University of Kaiserslautern Kaiserslautern, Germany",milchevski@cs.uni-kl.de,,1,1,0
+0000-0002-6096-8166,Katsiaryna Mirylenka,"IBM Research - Zurich R?schlikon, Switzerland",kmi@zurich.ibm.com,,0,0,0
+0000-0002-3535-3020,Peixiang Zhao,"University of Illinois, Urbana, IL, United States",pzhao4@uiuc.edu,,0,0,0
+0000-0003-2122-7637,Oguzhan Ozmen,University of Waterloo,oozmen@uwaterloo.ca,,1,1,0
+0000-0002-9773-7468,Saad Aljubayrin,"Department of Computing and Information Systems, University of Melbourne Melbourne, Australia",aljubayrin@su.edu.sa,,2,2,0
+0000-0002-1007-2281,Karim Ibrahim,"Computer Science Department, Worcester Polytechnic Institute (WPI) 100 Institute Rd., Worcester, MA, USA",kaibrahm@cs.wpi.edu,,3,3,0
+0000-0001-5824-2959,Padmashree Ravindra,Department of Computer Science North Carolina State University,pravind2@ncsu.edu,,0,0,0
+0000-0001-5749-0731,Maximilian Franzke,"Institute of Informatics, Ludwig-Maximilians-Universit?t Munich, Germany",franzke@dbs.ifi.lmu.de,,1,1,0
+0000-0002-3460-0608,Hazem Elmeleegy,AT&T Labs - Research,hazem@research.att.com,,0,0,0
+0000-0001-5824-2959,Padmashree Ravindra,"Microsoft Corporation, Redmond, USA",paravin@microsoft.com,,0,0,0
+0000-0003-4066-9385,Vishal Sikka,"SAP 3412 Hillview Ave Palo Alto, CA 94304, USA",vishal.sikka@sap.com,,1,1,0
+0000-0003-3300-5695,Lingkun Wu,School of Computer Engineering Â¡Â¹School of Computer Science Nanyang Technological University Fudan University Singapore China,wulingkun@ntu.edu.sg,,2,2,0
+0000-0003-0049-9369,Bogdan Alexe,UCSC,abogdan@cs.ucsc.edu,,3,3,0
+0000-0002-6101-900X,Faisal Nawab,"Department of Computer Science, University of California, Santa Barbara, Santa Barbara, CA 93106",nawab@cs.ucsb.edu,,0,0,0
+0000-0002-1834-4253,Kamil Bajda-Pawlikowski,Hadapt Inc.,kbajda@hadapt.com,,1,1,0
+0000-0002-1749-6159,Xing Wang,George Mason University Dept. of Computer Science,xwang24@gmu.edu,,3,3,0
+0000-0001-9353-1086,Mingzhu Wei,"Oracle Corp. Nashua, NH, USA",Email: mingzhu.wei@oracle.com,,1,1,0
+0000-0002-6247-3976,Yag ?Â©Â¥z KargÂ©Â¥n,"Database Architectures Group, Centrum Wiskunde & Informatica (CWI), Amsterdam, The Netherlands",,,2,2,0
+0000-0003-3883-5452,Yufei Tao,"Department of Computer Science and Engineering Chinese University of Hong Kong New Territories, Hong Kong",aoyf@cse.cuhk.edu.hk,,0,0,0
+0000-0002-3799-469X,Su Chen,National Univ of Singapore,chensu@comp.nus.edu.sg,,4,4,0
+0000-0002-2123-4557,Hatem Mahmoud,"University of California Santa Barbara, CA, USA",hatem@cs.ucsb.edu,,1,1,0
+0000-0002-8386-3084,Dominique Ritze,"Data and Web Science Group, University of Mannheim, B6, 26 68159 Mannheim, Germany",dominique@informatik.uni-mannheim.de,,1,1,0
+0000-0003-2191-7304,Qiang Zeng,"Institute of Computing Technology, Chinese Academy of Sciences Beijing 100190, China",zengqiang@kg.ict.ac.cn,,0,0,0
+0000-0003-1944-7921,Kai Zeng,UCLA,kzeng@cs.ucla.edu,,0,0,0
+0000-0002-0401-3306,Steffen Zeuch,Humboldt-Universit?t zu Berlin,zeuchste@informatik.hu-berlin.de,,2,2,0
+0000-0001-7346-6002,Alexandra Meliou,"University of Washington, Seattle, WA, USA",ameli@cs.washington.edu,,3,3,0
+0000-0003-2313-8961,Guoliang Li,"Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing 100084, China",liguoliang@tsinghua.edu.cn,,0,0,0
+0000-0001-5485-3314,Bahman Bahmani,"Stanford University Stanford, CA",bahman@stanford.edu,,0,0,0
+0000-0002-2266-7450,Xian Li,Computer Science Department of Binghamton University,xianli@cs.binghamton.edu,,0,0,0
+0000-0003-3550-4455,Yang Li,Shanghai JiaoTong University,rainfallen@sjtu.edu.cn,,0,0,0
+0000-0001-5062-7635,Zhuowei Bao,"Department of Computer and Information Science University of Pennsylvania Philadelphia, PA 19104, USA",zhuowei@cis.upenn.edu,,0,0,0
+0000-0002-0950-0541,Akon Dey,"School of Information Technologies, University of Sydney NSW 2006 Australia",akon.dey@sydney.edu.au,,1,1,0
+0000-0002-5218-058X,Robert Brunel," Technische Universita ?t Mu ?nchen, Garching, Germany",firstname.lastname@cs.tum.edu,,2,2,0
+0000-0002-7477-985X,Roksana Jahan,"Department of CSE, Bangladesh University of Engineering and Technology, Bangladesh",munia_064@yahoo.com,,3,3,0
+0000-0002-8218-707X,Nikos Giatrakos,"Dept. of Informatics University of Piraeus Piraeus,Greece",ngiatrak@unipi.gr,,1,1,0
+0000-0003-3122-7518,Dong-Wan Choi,"Department of Computer Science, KAIST, Daejeon, Korea",dongwan@islab.kaist.ac.kr,,0,0,0
+0000-0002-4392-6562,Hua Lu,"Department of Computer Science, Aalborg University, Denmark",luhua@cs.aau.dk,,1,1,0
+0000-0001-8432-7788,W. K. Wong,"Department of Computer Science, The University of Hong Kong Pokfulam Road, Hong Kong",wkwong2@cs.hku.hk,,0,0,0
+0000-0002-6830-3900,Lijun Chang,"University of New South Wales, Australia",ljchang@cse.unsw.edu.au,,4,4,0
+0000-0001-5993-4690,Lei Zou,"Peking University Beijing, China",zoulei@pku.edu.cn,,1,1,0
+0000-0002-5756-8321,Matteo Interlandi,"Qatar Computing Research Institute Doha, Qatar",minterlandi@qf.org.qa,,1,1,0
+0000-0003-3623-3941,Mohamed S. Hassan,"Purdue University West Lafayette, IN",msaberab@cs.purdue.edu,,1,1,0
+0000-0002-3713-7612,Konstantina Lazaridou,"Department of Informatics Aristotle University, Thessaloniki, Greece",konlaznik@csd.auth.gr,,1,1,0
+0000-0002-3355-6473,Patrick Damme,"Database Systems Group Technische Universit?t Dresden 01062 Dresden, Germany",firstname@tu-dresden.de,,1,1,0
+0000-0001-5220-3166,Huiqi Hu,"Department of Computer Science and Technology, TNList, Tsinghua University, Beijing 100084, China",hhq11@mails.tsinghua.edu.cn,,2,2,0
+0000-0001-9759-0745,Julien Loudet,"Cozy Cloud, France",julien@cozycloud.cc,,2,2,0
+0000-0003-1097-2965,Davide Lanti,"Faculty of Computer Science, Free University of Bozen-Bolzano Piazza Domenicani 3, Bolzano, Italy",dlanti@inf.unibz.it,,3,3,0
+0000-0001-8550-2197,Ling Gu,"Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, China",51121500004@ecnu.cn,,4,4,0
+0000-0002-9137-0845,Minyang Han,David R. Cheriton School of Computer Science University of Waterloo,m25han@uwaterloo.ca,,1,1,0
+0000-0003-3158-9471,Chen Jason Zhang,"Hong Kong University of Science and Technology, Hong Kong, China",czhangad@cse.ust.hk,,0,0,0
+0000-0002-0629-7955,Mohammadreza Najafi,"MSRG, Technical University Munich",,,1,1,0
+0000-0001-9681-8824,Tamir Tassa,"The Open University RaÂ¢Â® ?anana, Israel",tamirta@openu.ac.il,,1,1,0
+0000-0002-7615-4183,Caleb Chen Cao,"Department of Computer Science and Engineering The Hong Kong University of Science and Technology Clear Water Bay, Kowloon, Hong Kong SAR, PR China",caochen@cse.ust.hk,,1,1,0
+0000-0002-6194-4502,Sihem Amer-Yahia,"Univ.GrenobleAlpes,CNRS,LIG(France)",firstname.lastname@univ-grenoble-alpes.fr,,0,0,0
+0000-0002-8570-7640,Robert Waury,"Aalborg University Aalborg, Denmark",rwaury@cs.aau.dk,,1,1,0
+0000-0001-9018-6846,Han Su,"University of Queensland, Australia",h.su1@uq.edu.au,,2,2,0
+0000-0002-4818-6241,Marc Seidemann,"Database Systems Group University of Marburg, Germany",seidemann@informatik.uni-marburg.de,,3,3,0
+0000-0002-3460-0608,Hazem Elmeleegy,Purdue University,hazem@cs.purdue.edu,,0,0,0
+0000-0003-1837-0010,Manos Athanassoulis,?cole Polytechnique F?d?rale de Lausanne,manos.athanassoulis@epfl.ch,,1,1,0
+0000-0003-1895-4243,Ruoming Jin,Kent State University,jin@cs.kent.edu,,0,0,0
+0000-0001-8215-7893,Alkis Simitsis,"HP Labs  Palo Alto, Ca, USA",alkis@hp.com,,2,2,0
+0000-0001-9148-4861,Parag Agrawal,Stanford University,paraga@cs.stanford.edu,,0,0,0
+0000-0003-2067-454X,Jiaheng Lu,"DEKE, MOE and School of Information Renmin University of China",jiahenglu@ruc.edu.cn,,3,3,0
+0000-0002-5698-2299,Ning Zhang,"Computer Sciences Department, University of Wisconsin-Madison, USA",nzhang@cs.wisc.edu,,0,0,0
+0000-0001-5921-6429,Xiaofei Zhang,HKUST Hong Kong,zhangxf@cse.ust.hk,,4,4,0
+0000-0003-3384-4579,Martin Kaufmann,"Systems Group ETH Z?rich, Switzerland",martinka@inf.ethz.ch,,0,0,0
+0000-0002-4117-4344,Xin Jin,"George Washington University Washington, DC 20052, USA",xjin@gwu.edu,,1,1,0
+0000-0001-5062-7635,Zhuowei Bao,"Department of Computer and Information Science University of Pennsylvania Philadelphia, PA 19104, USA",zhuowei@cis.upenn.edu,,0,0,0
+0000-0002-0477-7429,Thomas Neumann,"Max-Planck Institute for Informatics Saarbr?cken, Germany",neumann@mpi-inf.mpg.de,,0,0,0
+0000-0001-7533-8792,Geert Jan Bex,Hasselt University and Transnational University of Limburg,geertjan.bex@uhasselt.be,,1,1,0
+0000-0002-3075-3260,Wei Wang,University of New South Wales and NICTA Australia,weiw@cse.unsw.edu.au,,2,2,0
+0000-0003-0683-3209,Pradap Konda,Facebook,,,2,2,0
+0000-0003-0257-6858,Linnea Passing,Technical University of Munich,passing@in.tum.de,,2,2,0
+0000-0002-6096-8166,Katsiaryna Mirylenka,IBM Research ? Zurich Switzerland,kmi@zurich.ibm.com,,0,0,0
+0000-0002-9133-1125,Yu Cheng,"UC Merced 5200 N Lake Road Merced, CA 95343",ycheng4@ucmerced.edu,,3,3,0
+0000-0003-2528-7557,Fang Wei,"Computer Science Department University of Freiburg Freiburg, Germany",fwei@informatik.uni-freiburg.de,,4,4,0
+0000-0002-4586-4975,Yin Yang,"Department of Computer Science and Engineering Hong Kong University of Science and Technology Clear Water Bay, Hong Kong",yini@cse.ust.hk,,1,1,0
+0000-0003-2049-6691,Ahmed M. Aly,"Purdue University West Lafayette, IN",aaly@cs.purdue.edu,,0,0,0
+0000-0002-3160-4355,Zhenjie Zhang,"Department of Computer Science National University of Singapore Computing 1, Singapore, 117590",zhenjie@comp.nus.edu.sg ,,0,0,0
+0000-0002-9303-0019,Pedram Ghodsnia,"University of Waterloo 200 University Ave E Waterloo, Canada",pghodsnia@uwaterloo.ca,,1,1,0
+0000-0001-8151-7260,Jianmin Wang,"Key Laboratory for Information System Security, MoE; TNList; School of Software, Tsinghua University, Beijing, China",jimwang@tsinghua.edu.cn,,0,0,0
+0000-0002-5376-726X,Mingyang Zhang,"George Washington University Washington, DC 20052, USA",mingyang@gwu.edu,,2,2,0
+0000-0001-5637-6224,Arjun Dasgupta,University of Texas at Arlington,arjundasgupta@uta.edu,,0,0,0
+0000-0003-0673-1632,Albert Angel,University of Toronto,albert@cs.toronto.edu,,0,0,0
+0000-0002-6506-1184,Peng Peng,"Peking University, China",pku09pp@pku.edu.cn,,3,3,0
+0000-0001-8197-1906,Dominik Sle ?zak,"Infobright Inc., Poland",slezak@infobright.com,,4,4,0
+0000-0001-6511-7101,Kevin Wellenzohn,"Department of Computer Science University of Zurich, Switzerland",wellenzohn@ifi.uzh.ch,,1,1,0
+0000-0001-8032-9962,Yael Amsterdamer,"Tel Aviv University, Tel Aviv, Israel",,,0,0,0
+0000-0003-1005-6131,Yasuhiro Fujiwara,NTT Cyber Space Labs,fujiwara.yasuhiro@lab.ntt.co.jp,,1,1,0
+0000-0001-5062-7635,Zhuowei Bao,"Department of Computer and Information Science, University of Pennsylvania Philadelphia, PA 19104, USA",zhuowei@cis.upenn.edu,,0,0,0
+0000-0002-6500-2192,Michael Shekelyan,"Institute for Informatics, Ludwig-Maximilians-University Munich Oettingenstr. 67, 80538 Munich, Germany",shekelyan@dbs.ifi.lmu.de,,2,2,0
+0000-0001-7119-3768,Inah Jeon,"Department of Computer Science, KAIST 291 Daehak-ro, Yuseong-gu, Daejeon 305-701, Republic of Korea",inahjeon@kaist.ac.kr,,3,3,0
+0000-0001-9092-8950,Tuan-Anh Nguyen Pham,"School of Computer Engineering, Nanyang Technological University, Singapore 639798",pham0070@e.ntu.edu.sg,,4,4,0
+0000-0002-0984-1629,Kaiqi Zhao,"School of Computer Engineering Nanyang Technological University, Singapore",kzhao002@ntu.edu.sg,,1,1,0
+0000-0003-3463-0564,Andreas Kipf,Technical University of Munich,kipf@in.tum.de,,2,2,0
+0000-0001-9350-7238,Zhou Zhao,"Department of Computer Science and Engineering, Hong Kong University of Science and Technology",zhaozhou@cse.ust.hk,,3,3,0
+0000-0002-4308-3411,Qi Li,"SUNY Buffalo, Buffalo, NY USA",qli22@buffalo.edu,,4,4,0
+0000-0003-1535-9692,Bolin Ding,"Department of Computer Science, University of Illinois at Urbana-Champaign, IL, USA",bding3@uiuc.edu,,1,1,0
+0000-0001-8416-9505,Maria Daltayanni,UC Santa Cruz,mariadal@cs.ucsc.edu,,2,2,0
+0000-0002-1436-3916,Yuncheng Wu,"? Renmin University of China Beijing, China",yunchengwu@ruc.edu.cn,,3,3,0
+0000-0003-2858-3124,Jerzy Tyszkiewicz,"Institute Informatics, University of Warsaw Banacha 2, 02-097 Warsaw, Poland",jty@mimuw.edu.pl,,4,4,0
+0000-0003-2029-220X,Marina Drosou,"Computer Science Department University of Ioannina, Greece",mdrosou@cs.uoi.gr,,1,1,0
+0000-0002-2254-8814,James Cheng,"School of Computer Engineering Nanyang Technological University, Singapore",j.cheng@acm.org,,0,0,0
+0000-0001-8491-2477,Nilesh Dalvi,"Yahoo! Research Santa Clara, CA, USA",ndalvi@yahoo-inc.com,,0,0,0
+0000-0001-8197-0903,Siqiang Luo,"Shanghai Key Lab of Intelligent Information Processing, Fudan University, China",sqluo@fudan.edu.cn,,1,1,0
+0000-0003-1166-7823,Peter Bailis,UC Berkeley,,,0,0,0
+0000-0001-7681-3807,Xiang Lian,"Department of Computer Science and Engineering The Hong Kong University of Science and Technology Hong Kong, China",xlian@cse.ust.hk,,0,0,0
+0000-0002-3015-0689,Daoyuan Li,"University of Luxembourg Luxembourg City, Luxembourg",daoyuan.li@uni.lu,,2,2,0
+0000-0002-2730-8393,Woon-Hak Kang,"College of Info. & Comm. Engr., Sungkyunkwan University, Suwon 440-746, Korea",woonagi319@skku.edu,,0,0,0
+0000-0001-5832-0988,Sebastiaan J. van Schaik,"Department of Computer Science, University of Oxford, United Kingdom",Sebastiaan.van.Schaik@cs.ox.ac.uk,,0,0,0
+0000-0002-0884-0042,Deepak Agarwal,Yahoo! Research,dagarwal@yahoo- inc.com,,0,0,0
+0000-0002-7775-0307,Badrish Chandramouli,Microsoft Research,badrishc@microsoft.com,,1,1,0
+0000-0001-5952-6486,Abhishek Mukherji,"? Samsung Research America - Silicon Valley 1732 North 1st Street San Jose, CA 95112.",a.mukherji@samsung.com,,2,2,0
+0000-0002-0825-8749,Pericles de Oliveira,"Instituto de Computac ?a ?o ? Universidade Federal do Amazonas Manaus, Brazil",pericles@icomp.ufam.edu.br,,3,3,0
+0000-0001-9709-8515,Jayanta Mondal,"Dept. of Computer Science, University of Maryland, College Park, MD 20742",jayanta@cs.umd.edu,,1,1,0
+0000-0003-0418-5762,Siyuan Liu,"Heinz College, Carnegie Mellon University",,,2,2,0
+0000-0001-7266-5018,Hojjat Jafarpour,NEC Labs America,hojjat@nec-labs.com,,0,0,0
+0000-0001-5580-1946,Roy Levin,IBM Haifa Research Labs and Technion ? Israel Institute of Technology,royl@il.ibm.com,,1,1,0
+0000-0001-6148-1854,Theodoros Rekatsinas,University of Maryland,thodrek@cs.umd.edu,,2,2,0
+0000-0002-6448-6201,Nicoleta Preda,"Max Planck Institute for Informatics Saarbr?cken, Germany",npreda@mpi-inf.mpg.de,,3,3,0
+0000-0003-1395-261X,Hongzhi Yin,"Department of Computer Science & Key Lab of High Confidence Software Technologies (Ministry of Education), Peking University",bestzhi@pku.edu.cn,,0,0,0
+0000-0001-7662-6673,Mirko Bronzi,"Universita` degli Studi Roma Tre, Rome, Italy",bronzi@dia.uniroma3.it,,1,1,0
+0000-0001-5575-5484,Yingxia Shao,"Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University",simon0227@pku.edu.cn,,0,0,0
+0000-0003-0197-2146,Behrouz Derakhshan,DFKI GmbH,behrouz.derakhshan@dfki.de,,1,1,0
+0000-0002-8880-880X,Minos Garofalakis,Technical University of Crete,minos@softnet.tuc.gr,,1,1,0
+0000-0002-3791-7571,Dhruba Borthakur,Facebook,dhruba@fb.com,,1,1,0
+0000-0001-8268-3981,Badre Belabbess,"Atos Innovation Lab Bezons, France",badre.belabbess@atos.net,,1,1,0
+0000-0003-4147-9372,Sayan Ranu," Dept. of CSE, IIT Madras, Chennai, India.",sayan@cse.iitm.ac.in,,0,0,0
+0000-0003-2476-1747,Do ?ra Erdo ?s,"Computer Science Department, Boston University Boston, MA 02215, USA",edori@bu.edu,,1,1,0
+0000-0001-5442-3509,Konstantinos Karanasos,IBM Research - Almaden,kkarana@us.ibm.com,,2,2,0
+0000-0002-8890-691X,Yin Huai,The Ohio State University,huai@cse.ohio-state.edu,,3,3,0
+0000-0002-5627-6044,Alexander Shraer,"Google, Inc. Work done while the authors were at Yahoo! Inc.",shralex@google.com,,4,4,0
+0000-0001-6094-3244,Peng Wang,"Fudan University, Shanghai, China",pengwang5@fudan.edu.cn,,0,0,0
+0000-0001-9776-0329,Ankit Toshniwal,"Twitter, Inc.",,,1,1,0
+0000-0003-3870-7768,Jun Zhang,School of Computer Engineering Nanyang Technological University,jzhang027@ntu.edu.sg,,0,0,0
+0000-0002-1720-0223,Tilmann Rabl,"Middleware Systems Research Group University of Toronto, Canada",tilmann@msrg.utoronto.ca,,1,1,0
+0000-0001-5663-6129,Nicole Bidoit-Tollu,Universite Paris Sud & INRIA Saclay,bidoit@lri.fr,,2,2,0
+0000-0002-0752-059X,Raghav Kaushik,Microsoft Research,skaushi@microsoft.com,,3,3,0
+0000-0001-6919-7831,Xika Lin,"Computer Science Department, Worcester Polytechnic Institute 100 Institute Road, Worcester MA, USA.",xika@wpi.edu,,1,1,0
+0000-0003-0315-2272,Sameer Agarwal,UC Berkeley,sameerag@cs.berkeley.edu,,2,2,0
+0000-0001-9213-7706,Jongwuk Lee,"Hankuk University of Foreign Studies, Republic of Korea",julee@hufs.ac.kr,,3,3,0
+0000-0002-5009-3343,Joseph Vinish DÂ¡Â¯silva,"School of Computer Science , McGill University",joseph.dsilva@mail.mcgill.ca,,4,4,0
+0000-0002-8967-2473,Floris Geerts,"University of Antwerp ? Antwerp, Belgium",,,1,1,0
+0000-0002-6584-1455,Ahmed Eldawy,"Department of Computer Science and Engineering, University of Minnesota, Minneapolis, MN, USA",eldawy@cs.umn.edu,,0,0,0
+0000-0002-6179-6888,Xiang Wang,"School of Computer Science and Engineering, University of New South Wales, Australia",xiangw@cse.unsw.edu.au,,1,1,0
+0000-0001-8588-4842,Tianyi Li,"School of Computer Science and Engineering Northeastern University Shenyang, China",litianyi_neu@163.com,,2,2,0
+0000-0001-9927-3225,Eric Chu,Computer Sciences Department University of Wisconsin-Madison,ericc@cs.wisc.edu,,3,3,0
+0000-0002-9085-1794,Marie Jacob,"University of Pennsylvania Philadelphia, PA, USA",majacob@cis.upenn.edu,,4,4,0
+0000-0002-5788-5060,Tian Luo,"The Ohio State University Columbus, OH",luot@cse.ohio-state.edu,,1,1,0
+0000-0001-6603-2388,Xi He,"Duke University Durham, NC, USA",hexi88@cs.duke.edu,,23,23,0
+0000-0002-1656-5634,Pingpeng Yuan,"Services Computing Tech. and System Lab.
+School of Computer Science & Technology
+Huazhong University of Science and Technology,
+China",ppyuan@hust.edu.cn,,4,4,0
+0000-0002-2126-326X,Giulia Preti,University of Trento,gp@disi.unitn.eu,,1,1,0
+0000-0003-1174-9810,Subi Arumugam,"University of Florida, Gainesville, FL 32611",sa2@cise.ufl.edu,,2,2,0
+0000-0002-6474-2025,Xiang Ao,"Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, China",aox@ics.ict.ac.cn,,1,1,0
+0000-0003-2106-3134,Jun Gao,"Key Laboratory of High Confidence Software Technologies, EECS, Peking University",gaojun@pku.edu.cn,,0,0,0
+0000-0003-3883-5452,Yufei Tao,Chinese University of Hong Kong,,,0,0,0
+0000-0001-8350-392X,Linhong Zhu,Information Sciences Institute University of Southern California,linhong@isi.edu,,1,1,0
+0000-0002-5891-8784,Xin Cao,"School of Computer Engineering, Nanyang Technological University, Singapore ",xcao1@e.ntu.edu.sg,,0,0,0
+0000-0003-3275-6999,Srinath Shankar,Microsoft Corporation,srinaths@microsoft.com,,2,2,0
+0000-0003-3495-7639,Julien Cumin,"Orange Labs & Inria Meylan, France",julien1.cumin@orange.com,,3,3,0
+0000-0001-5410-9405,Alper Okcan ,"Northeastern University, Boston, MA",okcan@ccs.neu.edu,,4,4,0
+0000-0003-2859-2389,Rajeev Gupta ,"IBM Research, India",grajeev@in.ibm.com,,1,1,0
+0000-0003-1275-1621,Jaeyoung Do,University of Wisconsin-Madison,jae@cs.wisc.edu,,2,2,0
+0000-0001-7326-7265,Afroza Sultana,"University of Texas at Arlington Arlington, Texas",afroza.sultana@mavs.uta.edu,,3,3,0
+0000-0003-2424-1637,Risi Thonangi ,Duke University ,rvt@cs.duke.edu,,4,4,0
+0000-0002-2902-8192,Ninghui Li,"Purdue University 305 N. University Street, West Lafayette, IN 47907, USA",ninghui@cs.purdue.edu,,1,1,0
+0000-0003-0345-4764,Craig D Weissman ,"CTO, Salesforce.com San Francisco, CA 94105 ",cweissman@salesforce.com ,,1,1,0
+0000-0001-9270-6630,Jiong He ,Nanyang Technological University,,,4,4,0
+0000-0003-3816-8450,Yunjun Gao ,School of Information Systems  Singapore Management University ,yjgao@smu.edu.sg,,2,2,0
+0000-0002-5527-3757,Despina Kopanaki ,"Dept. of Informatics University of Piraeus, Greece ",dkopanak@unipi.gr ,,4,4,0
+0000-0003-4797-4761,Richard Wesley ,Tableau Software ,hawkfish@tableausoftware.com ,,2,2,0
+0000-0002-8065-3401,Nadathur Satish,"Parallel Computing Lab, Intel Labs",,,0,0,0
+0000-0001-5806-5817,Nguyen Thanh Tam,Ecole Polytechnique FÂ¢Â¥edÂ¢Â¥erale de Lausanne,,,2,2,0
+0000-0002-7535-495X,Venu Satuluri,Dept. of Computer Science and Engineering The Ohio State University,satuluri@cse.ohiostate. edu,,0,0,0
+0000-0002-4611-7066,Daniel Kifer,Penn State University,,,1,1,0
+0000-0003-2313-8961,Guoliang Li,"Department of Computer Science, Tsinghua University, Beijing, China",liguoliang@tsinghua.edu.cn,,0,0,0
+0000-0002-2324-3916,Yanhua Li,"HUAWEI NoahÂ¡Â¯s Ark Lab, Hong Kong",li.yanhua1@huawei.com,,1,1,0
+0000-0002-2333-7613,Zi Huang,"School of Information Technology and Electrical Engineering
+The University of Queensland, QLD 4072, Australia",huang@itee.uq.edu.au,,2,2,0
+0000-0002-1018-8866,Eugene Wu,,sirrice@csail.mit.edu,,3,3,0
+0000-0002-6928-246X,Anastasios Arvanitis,"University of California, Riverside, CA, USA",1tasos@cs.ucr.edu,,4,4,0
+0000-0003-4608-1216,Marc Bux,"Humboldt-Universit?t zu Berlin Berlin, Germany",bux@informatik.huberlin.de,,1,1,0
+0000-0002-9633-064X,Mirjana Pavlovic,EPFL,mirjana.pavlovic@epfl.ch,,4,4,0
+0000-0003-2049-6691,Ahmed M. Aly,"Purdue University West Lafayette, IN",aaly@cs.purdue.edu,,0,0,0
+0000-0002-0758-8025,Rui Li,"Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA",ruili1@illinois.edu,,2,2,0
+0000-0002-0604-9580,Jiajun Liu,"AS Program, CSIRO, Pullenvale, Australia",jiajun.liu@csiro.au,,3,3,0
+0000-0003-4495-1003,Andrew Lamb,"Vertica Systems, An HP Company Cambridge, MA",alamb@vertica.com,,1,1,0
+0000-0003-1166-7823,Peter Bailis,"University of California, Berkeley",pbailis@cs.berkeley.edu,,0,0,0
+0000-0002-5211-112X,Aristides Gionis,"Helsinki Institute for Information Technology HIIT Aalto University, Finland",aristides.gionis@aalto.fi,,0,0,0
+0000-0001-8602-3681,Johannes Niedermayer,"Institute for Computer Science, LMU, Munich, Germany",niedermayer@cip.ifi.lmu.de,,1,1,0
+0000-0001-8980-4950,Guanfeng Liu,"School of Computer Science and Technology, Soochow University, Suzhou 215006, China",gfliu@suda.edu.cn,,2,2,0
+0000-0002-4346-6906,Fei Chen,University of Wisconsin-Madison,,,3,3,0
+0000-0003-2313-8961,Guoliang Li,"Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China",liguoliang@tsinghua.edu.cn,,0,0,0
+0000-0001-6031-9206,Flip Korn,AT&T Labs?Research,flip@research.att.com,,1,1,0
+0000-0002-6426-1440,Marius Eich,"University of Mannheim Mannheim, Germany",marius.eich@uni-mannheim.de,,2,2,0
+0000-0002-6208-951X,Georgia Koutrika,"HP Labs, Palo Alto, USA",koutrika@hp.com,,0,0,0
+0000-0003-2151-1750,Qian Zhong,"Department of Computer Science and Technology, Tsinghua University, Beijing 100084",zhongqian@keg.cs.tsinghua.edu.cn,,1,1,0
+0000-0002-4074-1298,Jianneng Cao,Institute for Infocomm Research,caojn@i2r.a-star.edu.sg,,0,0,0
+0000-0003-0622-5457,Mirjana Mazuran,DEIB ? Politecnico di Milano,mirjana.mazuran@polimi.it,,2,2,0
+0000-0001-6767-2723,Ziqiang Yu,"School of Computer Science & Technology Shandong University Jinan, China",zqy800@gmail.com,,3,3,0
+0000-0001-8643-1116,Yueh-Hsuan Chiang,"University of Wisconsin Madison 1210 W Dayton Street Madison, WI 53706, USA",yhchiang@cs.wisc.edu,,1,1,0
+0000-0002-2641-1639,Lujun Fang,University of Michigan,ljfang@umich.edu,,2,2,0
+0000-0001-6899-4599,Alexander Artikis,"Institute of Informatics & Telecommunications, NCSR Demokritos, Athens, Greece",a.artikis@iit.demokritos.gr,,3,3,0
+0000-0003-2728-5838,Mohamed-Amine Baazizi,LIP6 Universit? Pierre et Marie Curie,Mohamed-Amine.Baazizi@lip6.fr,,4,4,0
+0000-0002-3227-903X,Adam Marcus,MIT CSAIL,marcua@csail.mit.edu,,0,0,0
+0000-0003-3475-8138,Senjuti Basu Roy,Univ. of Texas Arlington,senjuti.basuroy@mavs.uta.edu,,0,0,0
+0000-0001-6825-040X,Dongqing Xiao,"Computer Science Department Worcester Polytechnic Institute (WPI), USA",dxiao@cs.wpi.edu,,1,1,0
+0000-0002-3175-3406,Frank McSherry,"Microsoft Research, SVC",mcsherry@microsoft.com,,2,2,0
+0000-0003-1944-7921,Kai Zeng,"University of California, Los Angeles",kzeng@cs.ucla.edu,,0,0,0
+0000-0002-0444-6494,Jin Wang,"University of California, Los Angeles",jinwang@cs.ucla.edu,,0,0,0
+0000-0001-6979-4556,Yuqiu Qian,"Department of Computer Science The University of Hong Kong, Hong Kong",yqqian@cs.hku.hk,,1,1,0
+0000-0002-0329-1056,Madhulika Mohanty,"Indian Institute of Technology, Delhi Hauz Khas, New Delhi, India",madhulikam@cse.iitd.ac.in,,1,1,0
+0000-0002-9487-9540,Spyros Blanas,University of Wisconsin?Madison,sblanas@cs.wisc.edu,,0,0,0
+0000-0003-4971-789X,Kun Ren,"Northwestern Polytechnical University, China",kun@cs.yale.edu,,2,2,0
+0000-0003-1115-6601,Merih Seran Uysal,"Data Management and Exploration Group RWTH Aachen University, Germany",uysal@cs.rwth-aachen.de,,3,3,0
+0000-0002-0040-8941,Michele Dallachiesa,University of Trento,dallachiesa@disi.unitn.eu,,1,1,0
+0000-0002-1307-9286,James Cheney,University of Edinburgh,jcheney@inf.ed.ac.uk,,2,2,0
+0000-0002-4224-8536,Carl-Christian Kanne,University of Mannheim Germany,kanne@informatik.uni-mannheim.de,,3,3,0
+0000-0002-7832-9338,Wei Tan,"IBM T. J. Watson Research Center Yorktown Heights, NY 10598, USA",wtan@us.ibm.com,,4,4,0
+0000-0001-9124-9845,Sadegh Nobari,SMU School of Information Systems Singapore,,,2,2,0
+0000-0003-0194-6466,Goetz Graefe,"Hewlett-Packard Laboratories Palo Alto, CA 94304",Goetz.Graefe@HP.com,,0,0,0
+0000-0003-2910-3591,Arian Bar,"Telecommunications Research Center Vienna (FTW), Vienna, Austria",baer@ftw.at,,1,1,0
+0000-0001-5485-3314,Bahman Bahmani,"Stanford University Stanford, CA",bahman@stanford.edu,,0,0,0
+0000-0003-4729-9903,Ju Fan,"Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology (TNList), Tsinghua University, Beijing 100084, China.",fan-j07@mails.tsinghua.edu.cn,,3,3,0
+0000-0002-5396-5389,Suman Nath,Microsoft Research,sumann@microsoft.com,,1,1,0
+0000-0003-2413-4698,Ziyu Guan,"Dept. of Computer Science University of California Santa Barbara, CA 93106, USA",ziyuguan@cs.ucsb.edu,,0,0,0
+0000-0002-3016-1695,Biplob Debnath,"EMC Corporation, Santa Clara, CA, USA",,,3,3,0
+0000-0002-7052-1114,Francesco Gullo,"Yahoo! Research Av. Diagonal, 177 08018 Barcelona, Spain",gullo@yahoo-inc.com,,0,0,0
+0000-0001-9177-2185,Brad Glasbergen,University of Waterloo,bjglasbe@uwaterloo.ca,,1,1,0
+0000-0001-6223-6228,Zhe Fan,"Department of Computer Science, Hong Kong Baptist University, Hong Kong, China",zfan@comp.hkbu.edu.hk,,2,2,0
+0000-0002-7642-1261,Michael K?rber,"Database Systems Group, University of Marburg",koerberm@mathematik.uni-marburg.de,,4,4,0
+0000-0002-0354-9977,Wen Jin,Independent Consultant,james.wenjin@gmail.com,,4,4,0
+0000-0002-3535-3020,Peixiang Zhao,"University of Illinois Urbana, IL 61801, USA",pzhao4@illinois.edu,,0,0,0
+0000-0002-3878-5988,Dimitrios Karapiperis,"Hellenic Open University Patras, Greece",dkarapiperis@eap.gr,,3,3,0
+0000-0001-9464-8315,Francesco Bonchi,"Yahoo Labs Barcelona, Spain",bonchi@yahoo-inc.com,,2,2,0
+0000-0002-3749-2323,Guimei Liu,School of Computing National University of Singapore,liugm@comp.nus.edu.sg,,0,0,0
+0000-0001-8151-7260,Jianmin Wang,"Key Laboratory for Information System Security, MOE; TNList; School of Software, Tsinghua University, Beijing, China",jimwang@tsinghua.edu.cn,,0,0,0
+0000-0003-0194-6466,Goetz Graefe,"HP Labs, Palo Alto, CA, USA",harumi.kuno@hp.com,,0,0,0
+0000-0001-7117-3951,Jilian Zhang,"School of Information Systems Singapore Management University 80 Stamford Road, Singapore 178902",jilian.z.2007@smu.edu.sg,,2,2,0
+0000-0003-4532-7974,FrancÂ¢Â¬ois Goasdoue,"U. Rennes 1, France",fg@irisa.fr,,0,0,0
+0000-0001-5096-3217,Zhengdao Xu,University of Toronto,zhengdao@cs.toronto.edu,,1,1,0
+0000-0001-8970-4001,Vinayak Borkar,"BEA Systems San Jose, CA",,,0,0,0
+0000-0002-7473-3149,Norases Vesdapunt,"Computer Science Department, Stanford University",norases@cs.stanford.edu,,1,1,0
+0000-0002-5556-8977,Cigdem Aslay,"Web Research Group University Pompeu Fabra Barcelona, Spain",aslayci@acm.org,,2,2,0
+0000-0001-6449-4271,Bhargav Kanagal,"Dept. of Computer Science, University of Maryland, College Park MD 20742",bhargav@cs.umd.edu,,0,0,0
+0000-0003-3150-5768,Tanmoy Chakraborty,"Department of Computer Science & Engineering Indian Institute of Technology, Kharagpur, India ? 721302",its_tanmoy@cse.iitkgp.ernet.in,,1,1,0
+0000-0001-7528-5678,MichaÂ©Â© Switakowski,Actian Corporation,michal.switakowski@actian.com,,2,2,0
+0000-0002-4886-6992,Lei Chen,"Department of Computer Science, Hong Kong Baptist University, Hong Kong, China",lchen@comp.hkbu.edu.hk,,4,4,0
+0000-0002-3549-1941,Habibur Rahman,UT Arlington,habibur.rahman@mavs.uta.edu,,5,5,0
+0000-0002-3872-1159,Tuan Cao,"Cornell University Ithaca, NY 14853, USA",tuancao@cs.cornell.edu,,2,2,0
+0000-0003-1629-4659,SÂ¢Â¥andor HÂ¢Â¥eman,"VectorWise Amsterdam, The Netherlands",sandor@vectorwise.com,,4,4,0
+0000-0003-3503-4123,Renata Borovica-Gajic,?cole Polytechnique F?d?rale de Lausanne,renata.borovica@epfl.ch,,2,2,0
+0000-0002-5135-5165,Leong Hou U,"Department of Computer Science, University of Hong Kong Pokfulam Road, Hong Kong",hleongu@cs.hku.hk,,3,3,0
+0000-0001-5538-1099,Rohit Kumar,"Department of Computer and Decision Engineering Universit? Libre de Bruxelles, Belgium Department of Service and Information System Engineering Universitat Polit?cnica de Catalunya, Spain",rohit.kumar@ulb.ac.be,,2,2,0
+0000-0002-1979-8150,Xueyuan Su,"Computer Science Yale University New Haven, CT 06520",xueyuan.su@yale.edu,,1,1,0
+0000-0003-3819-1511,William R. Marczak,"University of California, Berkeley",wrm@cs.berkeley.edu,,2,2,0
+0000-0001-9127-2682,Wenqing Lin,"A*STAR, Singapore",linw@i2r.a-star.edu.sg,,1,1,0
+0000-0002-4321-7555,Amol Ghoting,"IBM T. J. Watson Research Center Yorktown Heights, NY 10598, USA",aghoting@us.ibm.com,,1,1,0
+0000-0002-4801-1900,Eirinaios Michelakis,"Univ. of California at Berkeley Berkeley, CA, USA",ireneos@cs.berkeley.edu,,2,2,0
+0000-0003-4396-9308,Alain Biem,"IBM TJ Watson Research Center, Hawthorne, NY 10532",biem@us.ibm.com,,3,3,0
+0000-0002-8410-4127,Tarique Anwar,"Swinburne University of Technology, Melbourne, Australia",tanwar@swin.edu.au,,4,4,0
+0000-0002-9205-9012,Jennie Duggan,MIT CSAIL,jennie@csail.mit.edu,,0,0,0
+0000-0002-8714-0043,Ruiwen Chen,"University of Ottawa, Canada",rchen052@uottawa.ca,,1,1,0
+0000-0002-1325-3838,Ilya Taranov,"Alexander Solzhenitsyn street 25, 109004 Moscow, Russia",taranov@ispras.ru,,2,2,0
+0000-0002-6689-4671,Ning Jin,"University of North Carolina at Chapel Hill Chapel Hill, NC, USA",njin@cs.unc.edu,,3,3,0
+0000-0003-4799-5220,Ji Zhang,"Computer Science and Software Engineering Auburn University, AL, USA",jizhang@auburn.edu,,4,4,0
+0000-0001-7596-9412,Quoc-Cuong To,"SMIS Project, INRIA Rocquencourt, 78153 Le Chesnay, France",quoccuong.to@inria.fr,,12,12,0
+0000-0002-1028-0531,Nedyalko Borisov,Duke University,nedyalko@cs.duke.edu,,2,2,0
+0000-0002-0635-3507,Ingo M?ller,"Karlsruhe Institute of Technology, Karlsruhe, Germany",ingo.mueller@kit.edu,,2,2,0
+0000-0002-6852-1035,Sharma Thankachan,"Georgia Institute of Technology Georgia, USA",thanks@csc.lsu.edu,,2,2,0
+0000-0002-5901-0006,Felix Halim,National University of Singapore,halim@comp.nus.edu.sg,,2,2,0
+0000-0001-6649-3125,Guilherme Damasio,"University of Ontario Institute of Technology Faculty of Science, Computer Science",guilherme.fetterdamasio@uoit.ca,,3,3,0
+0000-0003-4322-5624,Petko Bakalov,"Environmental Systems Research Institute 380 New York Str. Redlands, CA 92373, USA",pbakalov@esri.com,,4,4,0
+0000-0001-9879-0431,Bin Cui,"Department of Computer Science & Key Lab of High Confidence Software Technologies (Ministry of Education), Peking University",bin.cui@pke.edu.cn,,4,4,0
+0000-0002-4332-9231,George Lee,"Twitter, Inc.",,,4,4,0
+0000-0002-2742-5258,George Papadakis,"Dep. of Informatics & Telecommunications, Uni. Athens, Greece",gpapadis@di.uoa.gr,,2,2,0
+0000-0002-9827-6878,Jonas Traub,Technische Universit?t Berlin,,,1,1,0
+0000-0001-9892-2561,Hongchan Roh,"Dept. of Computer Science, Yonsei University",fallsmal@cs.yonsei.ac.kr,,2,2,0
+0000-0003-1908-5940,Venkatesh Raghavan,"Pivotal, Inc.",vraghavan@gopivotal.com,,3,3,0
+0000-0002-7736-2814,El Kindi Rezig,"Department of Computer Science Purdue University West Lafayette, IN 47907",erezig@cs.purdue.edu,,1,1,0
+0000-0003-0460-7013,Lu Qin,"Centre for Quantum Computation and Intelligent Systems, University of Technology, Sydney, Australia",lu.qin@uts.edu.au,,0,0,0
+0000-0001-7882-952X,Kiril Panev,"TU Kaiserslautern Kaiserslautern, Germany",panev@cs.uni-kl.de,,1,1,0
+0000-0003-1259-5358,Bhupesh Chawda,"IBM India Research Laboratory, New Delhi, India",bhchawda@in.ibm.com,,2,2,0
+0000-0002-4196-0759,Grettel M. Garc?a,Instituto TecGraf ? Pontif?cia Universidade Cat?lica do Rio de Janeiro,ggarcia@inf.puc-rio.br,,3,3,0
+0000-0002-3997-529X,Mojgan Pourrajabi,"University of Alberta Edmonton, AB, Canada",pourraja@ualberta.ca,,4,4,0
+0000-0002-9750-850X,Jiannan Wang,UC Berkeley,jnwang@berkeley.edu,,0,0,0
+0000-0001-5895-2723,Yinian Qi,"Department of Computer Science, Purdue University 305 N. University Street, West Lafayette, IN 47907, USA",yqi@cs.purdue.edu,,2,2,0
+0000-0002-1189-1481,Giansalvatore Mecca,"Dipartimento di Matematica e Informatica ? Universit? della Basilicata ? Potenza, Italy",,,2,2,0
+0000-0001-9690-1089,Rebecca Taft,MIT CSAIL,rytaft@mit.edu,,1,1,0
+0000-0003-3475-8138,Senjuti Basu Roy,University of Texas at Arlington,senjuti.basuroy@mavs.uta.edu,,0,0,0
+0000-0002-3445-3396,Camelia Constantin,"Univ. Pierre et Marie Curie 2 Place Jussieu F75005 Paris, France",camelia.constantin@lip6.fr,,3,3,0
+0000-0002-0305-5467,Foto N. Afrati,National Technical University of Athens,afrati@softlab.ece.ntua.gr,,6,6,0
+0000-0002-9090-0525,Zainab Zolaktaf,"University of British Columbia Vancouver, BC, Canada",zolaktaf@cs.ubc.ca,,4,4,0
+0000-0003-2313-8961,Guoliang Li,"Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China.",liguoliang@tsinghua.edu.cn,,0,0,0
+0000-0002-6835-8434,Yuanyuan Tian,"IBM Almaden Research Center, USA",ytian@us.ibm.com,,1,1,0
+0000-0002-2239-7315,Ganzhao Yuan,School of Computer Science & Engineering South China University of Technology,y.ganzhao@scut.edu.cn,,2,2,0
+0000-0002-0937-336X,Kyumars Sheykh Esmaili,"Systems Group, ETH Zurich, Switzerland",kyumarss@inf.ethz.ch,,3,3,0
+0000-0003-3870-7768,Jun Zhang,Nanyang Technological University,jzhang027@ntu.edu.sg,,0,0,0
+0000-0002-5651-8066,Nikolas Zygouras,Department of Informatics and Telecommunications University of Athens Greece,nzygouras@di.uoa.gr,,2,2,0
+0000-0002-6105-7030,Herald Kllapi,"MaDgIK Lab, Dept. of Informatics and Telecommunications University of Athens, Ilissia GR15784, Greece.",herald@di.uoa.gr,,3,3,0
+0000-0002-8708-0642,Ehab Abdelhamid,Datometry Inc.,ehab@datometry.com,,4,4,0
+0000-0002-5698-2299,Ning Zhang,University of Wisconsin-Madison,nzhang@cs.wisc.edu,,0,0,0
+0000-0002-7381-7041,Xiaokui Shu,"Department of Computer Science, Virginia Tech Blacksburg, VA USA",subx@cs.vt.edu,,2,2,0
+0000-0001-6797-9960,Milad Eftekhar,"Department of Computer Science University of Toronto Toronto, ON, Canada",milad@cs.toronto.edu,,0,0,0
+0000-0001-5164-885X,Georgios Giannikis,"Systems Group, Department of Computer Science, ETH Zurich, Switzerland",giannikg@inf.ethz.ch,,1,1,0
+0000-0003-2694-4141,Christopher Olston,"Yahoo! Research 2821 Mission College Blvd. Santa Clara, CA",olston@yahoo-inc.com,,2,2,0
+0000-0001-5411-8387,Kaiyu Feng,"LILY, Interdisciplinary Graduate School. Nanyang Technological University, Singapore",kfeng002@ntu.edu.sg,,3,3,0
+0000-0002-3065-8159,Lucas Braun,Oracle Labs,lucas.braun@oracle.com,,4,4,0
+0000-0003-1015-804X,Jens Dittrich,Information Systems Group Saarland University,,,12,12,0
+0000-0002-0322-6502,Felix Beier,"Ilmenau University of Technology Langewiesener Str. 37 D-98693 Ilmenau, Germany",felix.beier@tu-ilmenau.de,,2,2,0
+0000-0001-6553-4941,Vibhor Rastogi,"University of Washington Seattle, WA, USA, 98105-2350",vibhor@cs.washington.edu,,2,2,0
+0000-0002-7593-1155,Jie Song,"University of Michigan Ann Arbor, Michigan",jiesongk@umich.edu,,2,2,0
+0000-0003-1979-6021,Arlei Silva,"Universidade Federal de Minas Gerais Belo Horizonte, Brasil",arlei@dcc.ufmg.br,,0,0,0
+0000-0002-7170-3809,Songlin Hu,"Institute of Computing Technology, Chinese Academy of Sciences, China",husonglin@ict.ac.cn,,1,1,0
+0000-0003-0554-8748,Ioana Ileana,Institut Mines-T?l?com; T?l?com ParisTech; CNRS LTCI,ileana@telecom-paristech.fr,,2,2,0
+0000-0003-0697-0131,Fatemeh Esfahani,"Computer Science Dept., University of Victoria, B.C., Canada",esfahani@uvic.ca,,2,2,0
+0000-0003-1137-6583,Haris Georgiadis,AUEB,harisgeo@aueb.gr,,2,2,0
+0000-0002-8911-4754,Marcus Fontoura,"Yahoo! Research 701 First Ave., Sunnyvale, CA 94089",marcusf@yahoo-inc.com,,2,2,0
+0000-0003-0445-2672,Michael Lind Mortensen,"Aarhus University, Denmark",illio@cs.au.dk,,2,2,0
+0000-0003-2264-9882,Xiufeng Liu,"University of Waterloo, Canada",xiufeng.liu@uwaterloo.ca,,2,2,0
+0000-0001-5300-5970,Bin Yang,"Department of Computer Science, Aarhus University, Denmark",byang@cs.au.dk,,3,3,0
+0000-0003-2955-8342,An Liu,"School of Computer Science and Technology, Soochow University, China",anliu@suda.edu.cn,,12,12,0
+0000-0002-5055-6942,Panos Parchas,Department of Computer Science and Engineering Hong Kong University of Science and Technology,pparchas@cse.ust.hk,,3,3,0
+0000-0002-8094-8947,Ahmed Metwally,"Google, Inc. Mountain View, CA, USA",metwally@google.com,,4,4,0
+0000-0001-6806-8405,Cheng Long,"The Hong Kong University of Science and Technology Clear Water Bay, Kowloon, HongKong",clong@cse.ust.hk,,2,2,0
+0000-0002-0765-4889,Rohan Khade,"George Mason University Fairfax, VA, USA",rkhade@gmu.edu,,0,0,0
+0000-0003-0856-0814,Mohan Yang,"Shanghai Jiao Tong University, Microsoft Research Asia", mh.yang.sjtu@gmail.com,,0,0,0
+0000-0002-4595-1016,Avrilia Floratou,University of Wisconsin-Madison,floratou@cs.wisc.edu,,1,1,0
+0000-0002-6650-1831,Wenchao Zhou,"Georgetown University, Washington, DC",wzhou@cs.georgetown.edu,,0,0,0
+0000-0001-9392-3231,Gunes Aluc,"Cheriton School of Computer Science, University of Waterloo",galuc@uwaterloo.ca,,2,2,0
+0000-0001-6381-574X,Henning Kohler,"The University of Queensland Brisbane, Australia",henning@itee.uq.edu.au,,2,2,0
+0000-0001-9671-0856,Norman May,SAP SE,Norman.May@sap.com,,3,3,0
+0000-0001-7877-3271,Chenghui Ren,"Department of Computer Science, University of Hong Kong Pokfulam Road, Hong Kong",chren@cs.hku.hk,,4,4,0
+0000-0002-6940-210X,Minji Wu,Department of Computer Science Rutgers University,minji-wu@cs.rutgers.edu,,2,2,0
+0000-0002-7949-1791,Tomas Talius,Microsoft Corporation  One Microsoft Way  Redmond WA,tomtal@microsoft.com,,1,1,0
+0000-0001-9356-8508,Yubao Wu,"Department of Electrical Engineering and Computer Science, Case Western Reserve University",yubao.wu@case.edu,,0,0,0
+0000-0003-1963-7442,Manoj K Agarwal,Search Technology Center  Microsoft India,agarwalm@microsoft.com,,0,0,0
+0000-0002-5091-3575,Mitsuru Kusumoto,"Preferred Infrastructure, Inc",mkusumoto@preferred.jp,,2,2,0
+0000-0002-3627-8819,Youze Tang,School of Computer Engineering Nanyang Technological University Singapore,tangyouze@ntu.edu.sg,,3,3,0
+0000-0001-7940-1090,Krishna Kunchithapadam,"Oracle Corporation 500 Oracle Parkway Redwood Shores, CA 94065",Krishna.Kunchithapadam@Oracle.com,,4,4,0
+0000-0003-0543-6332,Mateusz Pawlik,"Free University of Bozen-Bolzano Bolzano, Italy",mpawlik@unibz.it,,1,1,0
+0000-0002-4899-7538,Akanksha Baid,"Department of Computer Sciences, University of Wisconsin-Madison 1210 W. Dayton St., Madison, WI, USA",baid@cs.wisc.edu,,2,2,0
+0000-0002-9117-1109,Guido Moerkotte,"University of Mannheim Mannheim, Germany",moer@db.informatik.uni,,4,4,0
+0000-0001-9315-4057,"Yingjun Wu, Kian-Lee Tan","School of Computing, National University of Singapore",yingjun@comp.nus.edu.sg,,2,2,0
+0000-0001-9206-9563,Wook-Shin Han,"Kyungpook National University, Korea",wshan@knu.ac.kr,,0,0,0
+0000-0002-5554-4510,Anish Das Sarma,"Yahoo Research CA, USA",anishdas@yahoo-inc.com,,1,1,0
+0000-0002-7116-741X,Sai Wu,"School of Computing, National University of Singapore, Singapore, 117417",wusai@comp.nus.edu.sg,,0,0,0
+0000-0002-4751-4194,Chao Li,"University of Massachusetts Amherst, Massachusetts, USA",chaoli@cs.umass.edu,,2,2,0
+0000-0002-8835-430X,Kyriakos Mouratidis,School of Information Systems Singapore Management University,kyriakos@smu.edu.sg,,0,0,0
+0000-0002-5154-5559,Tobias Emrich,"Institute for Informatics, Ludwig-Maximilians-Universitat Munchen Oettingenstr. 67, D-80538 Munchen, Germany",emrich@dbs.ifi.lmu.de,,3,3,0
+0000-0002-3487-0675,Jinling Jiang,"Department of Computer Science, Aalborg University, Denmark",jinling@pku.edu.cn,,2,2,0
+0000-0003-3043-7361,Yiwen Wang,"University of Copenhagen Copenhagen, Denmark",y.wang@di.ku.dk,,3,3,0
+0000-0001-7849-4918,Haim Kaplan,School of Computer Science Tel-Aviv University,haimk@post.tau.ac.il,,4,4,0
+0000-0002-7578-8117,Yongluan Zhou,"University of Southern Denmark, Denmark",zhou@imada.sdu.dk,,1,1,0
+0000-0002-4074-1298,Jianneng Cao,School of Computing National University of Singapore,caojn@purdue.edu,,0,0,0
+0000-0001-5410-9405,Alper Okcan,"Northeastern University, Boston, USA",okcan@ccs.neu.edu,,2,2,0
+0000-0002-1319-3484,Essam Mansour,King Abdullah University of Science and Technology,essam.mansour@kaust.edu.sa,,0,0,0
+0000-0003-3040-0171,Michael Armbrust,"AMP Lab, EECS, UC Berkeley",marmbrus@cs.berkeley.edu,,2,2,0
+0000-0003-1812-6843,Yizhou Sun,"University of Illinois at Urbana-Champaign Urbana, IL",sun22@illinois.edu,,4,4,0
+0000-0001-6567-0660,Elio Damaggio,UC San Diego,elio@cs.ucsd.edu,,5,5,0
+0000-0001-7175-7359,Victor Christen,University Leipzig Germany,christen@informatik.uni-leipzig.de,,2,2,0
+0000-0002-4956-4347,Brian J. Corcoran,"University of Maryland College Park, MD, USA",bjc@cs.umd.edu,,1,1,0
+0000-0002-3623-8227,Prasang Upadhyaya,University of Washington,prasang@cs.uw.edu,,0,0,0
+0000-0003-0460-7013,Lu Qin,"The Chinese University of Hong Kong, Hong Kong, China",lqin@se.cuhk.edu.hk,,0,0,0
+0000-0003-0449-5648,Mahashweta Das,University of Texas at Arlington,mahashweta.das@mavs.uta.edu,,1,1,0
+0000-0002-9082-7356,Mrunal Gawade,"CWI, Amsterdam",mrunal.gawade@cwi.nl,,2,2,0
+0000-0001-6318-5047,Guolei Yang,"Department of Computer Science Iowa State University Ames, IA, USA",yanggl@iastate.edu,,3,3,0
+0000-0002-2765-5758,Ritesh Ahuja,University of Southern California,riteshah@usc.edu,,1,1,0
+0000-0003-3883-5452,Yufei Tao,"Department of Computer Science and Engineering Chinese University of Hong Kong New Territories, Hong Kong ",taoyf@cse.cuhk.edu.hk,,0,0,0
+0000-0002-1343-1948,Tamraparni Dasu,"AT&T Labs Research 180 Park Avenue Florham Park, NJ 07932",tamr@research.att.com,,3,3,0
+0000-0002-5032-2839,Ahmad Ghazal,"Teradata Corporation, 100 N. Sepulveda Blvd., El Segundo, CA, 90245",ahmad.ghazal@teradata.com,,0,0,0
+0000-0002-6072-628X,Trong Duc Nguyen,"IowaStateUniversity,USA",,,4,4,0
+0000-0001-7239-5134,Chuan Xiao,"Nagoya University, Japan",chuanx@nagoya-u.jp,,5,5,0
+0000-0003-0477-4399,Odysseas Papapetrou,Technical University of Crete,papapetrou@softnet.tuc.gr,,1,1,0
+0000-0001-8106-6535,Changjiu Jin,"School of Computer Engineering, Nanyang Technological University, Singapore", cjjin@hkbu.edu.hk,,2,2,0
+0000-0003-3157-3306,Zhaoqi Chen,"Microsoft Corporation Redmond, USA",schen@microsoft.com,,4,4,0
+0000-0002-9050-6309,Changkyu Kim,"Throughput Computing Lab, Intel Corporation",changkyu.kim@intel.com,,3,3,0
+0000-0001-9733-7504,Manas Joglekar,"Computer Science Department, Stanford University Stanford, California, USA 94305",manasrj@stanford.edu,,2,2,0
+0000-0003-3085-291X,Lyublena Antova,,lantova@gopivotal.com,,1,1,0
+0000-0003-3569-3380,Jose M. Faleiro,Yale University,jose.faleiro@yale.edu,,5,5,0
+0000-0002-2521-5011,Shiwen Cheng,"Department of Computer Science and Engineering, University of California, Riverside, CA, USA",schen064@cs.ucr.edu,,0,0,0
+0000-0001-8971-666X,Muhammed Mas-ud Hussain,"Department of Electrical Engineering and Computer Science Northwestern University, Evanston, IL, 60208",mmh683@eecs.northwestern.edu,,2,2,0
+0000-0002-4743-5736,Jonathan Kuck,"Department of Computer Science, University of Illinois at Urbana-Champaign",jkuck@illinois.edu,,3,3,0
+0000-0003-4753-7908,Christopher Hoobin,"1School of Computer Science and Information Technology, RMIT University",christopher.hoobin@unimelb.edu.au,,4,4,0
+0000-0003-0687-457X,Nikos Armenatzoglou,"Department of Computer Science and Engineering Hong Kong University of Science and Technology Clear Water Bay, Hong Kong",nikos@cse.ust.hk,,5,5,0
+0000-0002-3962-9303,George Konstantinidis,"Information Sciences Institute University of Southern California Marina Del Rey, CA 90292",konstant@usc.edu,,1,1,0
+0000-0001-7576-4572,Matan Laadan,"Tel Aviv University Tel Aviv, Israel",matanlaa@post.tau.ac.il,,2,2,0
+0000-0002-2253-0139,Orestis Gkorgkas,"Norwegian University of Science and Technology (NTNU), Trondheim, Norway",orestis@unipi.gr,,2,2,0
+0000-0002-3264-8050,David B. Lomet,"Microsoft Research, Redmond, WA 98052 USA",lomet@microsoft.com,,2,2,0
+0000-0002-2708-9717,Justin Levandoski,"Microsoft Research  One Microsoft Way  Redmond, WA 98052",justinle@microsoft.com,,1,1,0
+0000-0003-0890-0524,Aston Zhang,University of Illinois at Urbana-Champaign,lzhang74@illinois.edu,,2,2,0
+0000-0002-3160-4355,Zhenjie Zhang,School of Computing National University of Singapore,zhenjie@comp.nus.edu.sg,,0,0,0
+0000-0002-0271-2381,Yi Zhang,Duke University,yizhang@cs.duke.edu,,1,1,0
+0000-0002-4129-6202,Sandeep Akinapelli,"Cloudera, Palo Alto, CA",sakinapelli@cloudera.com,,3,3,0
+0000-0003-4330-8438,Quentin Grossetti,"CNAM, UPMC Paris, France",quentin.grossetti@upmc.fr,,4,4,0
+0000-0002-0795-5163,Hoang Tam Vo,National University of Singapore,voht@comp.nus.edu.sg,,5,5,0
+0000-0003-2225-8291,Tingjian Ge,"Computer Science Department  Brown University  Providence, RI, USA",tige@cs.brown.edu,,2,2,0
+0000-0003-0742-8002,Suyash Gupta,"Exploratory Systems Lab Department of Computer Science University of California, Davis",,,3,3,0
+0000-0002-3859-0232,Jianjun Chen,Yahoo!,jjchen@yahoo-inc.com,,2,2,0
+0000-0002-1343-5404,Jong Wook Kim ,"Comp. Sci. and Eng. Dept. Arizona State University Tempe, AZ, 85287, USA",jong@asu.edu,,1,1,0
+0000-0002-0245-4749,Xiaogang Shi,"Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University",sxg@cs.auckland.ac.nz,,2,2,0
+0000-0001-9197-7439,Sairam Gurajada,"Max-Planck Institute for Informatics Saarbr?cken, Germany ",gurajada@mpi-inf.mpg.de,,3,3,0
+0000-0002-1065-605X,Sean Chester,"Data-Intensive Systems Group, Aarhus University, Denmark",schester@cs.au.dk,,0,0,0
+0000-0002-8297-6255,Paolo Boldi,"Universit`a degli Studi Milano, Italy",boldi@dsi.unimi.it,,2,2,0
+0000-0003-2212-3813,Mohamed A. Soliman,"Pivotal Inc. Palo Alto, USA",,,0,0,0
+0000-0001-8247-1196,Jinyang Gao,School of Computing National University of Singapore,jinyang.gao@comp.nus.edu.sg,,2,2,0
+0000-0002-7376-6547,Ye Zhang,The Pennsylvania State University,yxz169@cse.psu.edu,,3,3,0
+0000-0001-6039-5786,Zhong Zeng,National University of Singapore,zengzh@comp.nus.edu.sg,,4,4,0
+0000-0002-6638-7864,Junichi Tatemura,NEC Labs America,tatemura@nec-labs.com,,2,2,0
+0000-0001-6312-8624,Michael Vollmer Karlsruhe ,"Institute of Technology Karlsruhe, Germany",michael.vollmer@kit.edu,,3,3,0
+0000-0003-3375-7010,Fabian Hueske,"Technische Universitat Berlin, Germany",fabian.hueske@tu-berlin.de,,5,5,0
+0000-0001-8458-2164,Deepak P ,"IBM Research - India Bangalore, India.",deepak.s.p@in.ibm.com,,3,3,0
+0000-0003-0094-4354,Xiaochen Zhu,"KLiss, MoE; TNList; School of Software, Tsinghua University, China",zhu-xc10@mails.tsinghua.edu.cn,,4,4,0
+0000-0002-5449-7994,Thibault Sellam,"CWI, the Netherlands",thibault.sellam@cwi.nl,,5,5,0
+0000-0002-1065-605X,Sean Chester,"Data-Intensive Systems Group Aarhus Universitet, ?bogade 34, 8200 ?rhus N, Denmark",schester@cs.au.dk,,0,0,0
+0000-0002-2088-0303,Arnd Christian Ko,"nig Microsoft Research One Microsoft Way Redmond, WA 98052, USA",chrisko@microsoft.com,,1,1,0
+0000-0002-5558-1223,Martina-Cezara Albutiu,"Technische Universitat M Â¡Â§ unchen Â¡Â§ Boltzmannstr. 3 85748 Garching, Germany",Martina-Cezara.Albutiu@in.tum.de,,2,2,0
+0000-0001-6449-4271,Bhargav Kanagal,"Dept. of Computer Science, University of Maryland, College Park MD 20742",bhargav@cs.umd.edu,,0,0,0
+0000-0001-8906-4972,Yingmei Qi,"Â¡ÃOGoogle Inc Seattle, WA 98103, USA Â¡ÃOWorcester Polytechnic Institute Worcester, MA 01609, USA",yingmei.qi@cs.wpi.edu,,2,2,0
+0000-0001-8432-7788,W. K. Wong,"Department of Computer Science, The University of Hong Kong Pokfulam Road, Hong Kong",wkwong2@cs.hku.hk,,0,0,0
+0000-0001-6546-6555,Lukas Blunschi,"ETH Zurich, Switzerland",lukas.blunschi@inf.ethz.ch,,3,3,0
+0000-0001-8782-9134,Wenlei Xie,Cornell University,wenleix@cs.cornell.edu,,4,4,0
+0000-0001-8639-4570,Bolong Zheng,"University of Queensland, Australia",b.zheng@itee.uq.edu.au,,5,5,0
+0000-0003-2823-6827,Dimitris Tsirogiannis,"University of Toronto Toronto, ON, Canada",dimitris@cs.toronto.edu,,0,0,0
+0000-0002-5561-9279,Han Li,University of Wisconsin-Madison,,,6,6,0
+0000-0001-5138-0427,Dayu Yuan,"Department of Computer Science and Engineering The Pennsylvania State University, University Park, PA, 16802, USA",duy113@ist.psu.edu,,7,7,0
+0000-0003-0442-7215,Daniel Nicoara,University of Waterloo,daniel.nicoara@gmail.com,,5,5,0
+0000-0002-6794-6779,Ana Sima,"Zurich University of Applied Sciences Winterthur, Switzerland",simn@zhaw.ch,,4,4,0
+0000-0002-3215-7606,Rares Vernica,"Department of Computer Science University of California, Irvine",rares@ics.uci.edu,,3,3,0
+0000-0001-7959-585X,Daniel Deutch,Tel Aviv University,danielde@post.tau.ac.il,,3,3,0
+0000-0002-0444-6494,Jin Wang,"Department of Computer Science and Technology, TNList, Tsinghua University, Beijing 100084, China.",wangjin12@mails.tsinghua.edu.cn,,0,0,0
+0000-0002-0787-2448,Ziqiang Feng,Department of Computing Hong Kong Polytechnic University,cszqfeng@comp.polyu.edu.hk,,1,1,0
+0000-0002-9528-1057,Gene Pang,UC Berkeley,gpang@cs.berkeley.edu,,2,2,0
+0000-0002-3814-2587,Adriane Chapman,"The MITRE Corporation McLean, VA 22102",achapman@mitre.org,,3,3,0
+0000-0002-5050-9687,Benjamin Sowell,"Cornell University Ithaca, NY, USA",sowell@cs.cornell.edu,,4,4,0
+0000-0001-8032-9962,Yael Amsterdamer,"Tel Aviv University, Israel",susan@cis.upenn.edu,,0,0,0
+0000-0002-6390-6569,Alvin Cheung,MIT CSAIL,akcheung@csail.mit.edu,,0,0,0
+0000-0002-4025-9864,Chrysanthi Kosyfaki,"Dept. of Computer Science and Engeeniring University of Ioannina, Greece",xkosifaki@cs.uoi.gr,,5,5,0
+0000-0003-0208-014X,Spiros Athanasiou,"Information Management Systems Institute, Athena Research Center, Greece",spathan@imis.athena-innovation.gr,,6,6,0
+0000-0001-7525-920X,Thi Nguyen,"Department of Computer Science and Computer Engineering, La Trobe University, Australia",nt2nguyen@students.latrobe.edu.au,,4,4,0
+0000-0001-9823-614X,Milena G. Ivanova,"Centrum Wiskunde en Informatica (CWI) P.O. Box 94079, 1090 GB Amsterdam The Netherlands",milena@cwi.nl,,4,4,0
+0000-0002-7040-6706,Konstantinos Semertzidis,"Computer Science and Engineering Department University of Ioannina, Greece",ksemer@cs.uoi.gr,,1,1,0
+0000-0002-5211-112X,Aristides Gionis,"Aalto University and HIIT Espoo, Finland",aristides.gionis@aalto.fi,,0,0,0
+0000-0003-1833-8061,Zhongjun Jin,"University of Michigan, Ann Arbor",markjin@berkeley.edu,,2,2,0
+0000-0002-8669-8694,Malu Castellanos,"HP Labs  Palo Alto, CA, USA",malu.castellanos@hp.com,,3,3,0
+0000-0002-7919-2206,Manish Singh,"Indian Institute of Technology Hyderabad, India",msingh@iith.ac.in,,4,4,0
+0000-0002-3270-2758,Anatoli U. Shein,Dept. of Computer Science University of Pittsburgh,aus@cs.pitt.edu,,5,5,0
+0000-0002-4744-8262,Bo Zhao,"Department of Computer Science, University of Illinois, Urbana, IL, USA",bozhao3@microsoft.com,,4,4,0
+0000-0001-9411-8082,Gabriela Jacques-Silva,"Thomas J. Watson Research Center, IBM Research, Hawthorne, NY 10532, USA",g.jacques@cs.bilkent.edu.tr,,3,3,0
+0000-0003-2788-5032,Lukas Kircher,"Department of Computer and Information Science, University of Konstanz P.O. Box 188, 78457 Konstanz, Germany",Lukas.Kircher@uni.kn,,2,2,0
+0000-0002-6972-570X,Kostas Patroumpas,"Department of Informatics, University of Piraeus, Greece",kpatro@iit.demokritos.gr,,3,3,0
+0000-0003-4573-9047,Chen Wang,"CSIRO Sydney, Australia",chen.wang@csiro.au,,3,3,0
+0000-0002-6390-6569,Alvin Cheung,MIT CSAIL,akcheung@csail.mit.edu,,0,0,0
+0000-0002-0884-0042,Deepak Agarwal,"Yahoo! Research 701 First Avenue Sunnyvale, CA, USA",dagarwal@yahoo-inc.com,,0,0,0
+0000-0002-0344-5203,Jens Teubner,"Systems Group, Dept. of Computer Science ETH Zurich, Switzerland",jens.teubner@inf.ethz.ch,,3,3,0
+0000-0002-8717-1691,Herodotos Herodotou,"Duke University Durham, North Carolina, USA",hero@cs.duke.edu,,4,4,0
+0000-0001-8535-7815,Yang Chen,Department of CISE University of Florida,yang@cise.ufl.edu,,5,5,0
+0000-0002-5598-0312,Yongxin Tong,"Hong Kong University of Science & Technology, Hong Kong, China",yxtong@cs.uic.edu,,1,1,0
+0000-0003-4191-2738,Tova Milo,Tel Aviv University,milo@post.tau.ac.il,,0,0,0
+0000-0003-0986-8669,Lukasz Golab,"University of Waterloo, Canada",lgolab@uwaterloo.ca,,0,0,0
+0000-0003-3807-0058,Di Yang,"Oracle Corporation 1 Oracle Drive Nashua, NH, USA",di.yang@oracle.com,,2,2,0
+0000-0001-8116-6659,Carlo Curino,,curino@mit.edu,,3,3,0
+0000-0002-9240-4779,Rui Liu,University of Waterloo,r46liu@uwaterloo.ca,,3,3,0
+0000-0002-4261-5826,Roberto De Virgilio,"Roma Tre University, Rome, Italy",dvr@dia.uniroma3.it,,4,4,0
+0000-0002-2276-3119,Kai Zheng,"School of Information Technology and Electrical Engineering, The University of Queensland, Brisbane, Australia",uqkzheng@uq.edu.au,,0,0,0
+0000-0002-2728-5726,Shimin Chen,"Intel Research Pittsburgh 4720 Forbes Avenue, Suite 410 Pittsburgh, PA 15213, USA",shimin.chen@intel.com,,0,0,0
+0000-0003-4233-3543,Lisi Chen,"Nanyang Technological University, Singapore",lchen012@e.ntu.edu.sg,,0,0,0
+0000-0003-0150-2865,Faraz Makari Manshadi,"Max-Planck-Institut furÂ¡Â§
+Informatik",fmakari@mpi-inf.mpg.de,,1,1,0
+0000-0002-6555-3269,Ahmet Erdem SarÂ©Â¥yuce,"Department of Biomedical Informatics, The Ohio State University",sariyuce.1@cs.bilkent.edu.tr,,2,2,0
+0000-0002-9913-6180,Haichuan Shang,"University of New South Wales, Australia",shangh@cse.unsw.edu.au,,0,0,0
+0000-0001-7415-908X,Tao Zou,"Cornell University Ithaca, NY",taozou@diku.dk,,2,2,0
+0000-0002-7499-8518,Wahbeh Qardaji,Dept. of Computer Science and CERIAS Purdue University,wahbeh.qardaji@gmail.com,,3,3,0
+0000-0002-9735-1741,Xin Luna Dong,AT&T Labs-Research,lunadong@research.att.com,,4,4,0
+0000-0002-3077-2146,Kangnyeon Kim,University of Toronto,knkim@cs.toronto.edu,,1,1,0
+0000-0002-4244-7201,Jeffrey Jestes,"Computer Science Department, FSU Tallahassee, FL, USA",jestes@cs.fsu.edu,,0,0,0
+0000-0002-9090-8279,Yanfei Lv,Department of Computer Science & Key Lab of High Confidence Software Technologies,lvyf@pke.edu.cn,,2,2,0
+0000-0002-8590-9525,Dong Deng,"Department of Computer Science, Tsinghua University, Beijing, China",dd11@mails.tsinghua.edu.cn,,3,3,0
+0000-0002-3749-2323,Guimei Liu,School of Computing National University of Singapore,liugm@comp.nus.edu.sg,,0,0,0
+0000-0002-1589-4727,Demjan Grubic,Department of Computer Science ETH Zurich,dgrubic@student.ethz.ch,,2,2,0
+0000-0002-0515-1751,Mihnea Andrei,"Sybase, Inc. One Sybase Drive, Dublin, CA 94568",mandrei@sybase.com,,1,1,0
+0000-0003-2786-8566,Akihiro Yamaguchi,"Center for Embedded Computing Systems, Nagoya University, Japan",,,2,2,0
+0000-0002-9332-9344,Rachel Behar,"The Rachel and Selim Benin School of Computer Science and Engineering, Hebrew University of Jerusalem, Israel",rachel.beharharr@mail.huji.ac.il,,3,3,0
+0000-0002-2362-4815,Quan Pham,"Computation Institute, University of Chicago, Chicago, Illinois, USA",quanpt@ci.uchicago.edu,,4,4,0
+0000-0002-9407-8698,Zhixu Li,"King Abdullah University of Science and Technology, Saudi Arabia",zhixu.li@microsoft.com,,5,5,0
+0000-0003-2642-4736,Xiao Qin,"Department of Computer Science, Worcester Polytechnic Institute",xqin@cs.wpi.edu,,0,0,0
+0000-0001-5832-0988,Sebastiaan J. van Schaik,"University of Oxford Computing Laboratory Wolfson Building, Parks Road, Oxford OX1 3QD, UK",Sebastiaan.van.Schaik@comlab.ox.ac.uk,,0,0,0
+0000-0001-8252-5270,Surajit Chaudhuri,"Microsoft Research One Microsoft Way Redmond, WA, USA",surajitc@microsoft.com,,0,0,0
+0000-0001-9090-3454,Chen-Che Huang,"Department of Computer Science National Chiao Tung University, Hsinchu, Taiwan, ROC",cchuang.cs95g@cs.nctu.edu.tw,,2,2,0
+0000-0002-2728-5726,Shimin Chen,Intel Labs Pittsburgh,shimin.chen@intel.com,,0,0,0
+0000-0001-6880-8178,Yang Wang,"School of Computer Science, Fudan University, Shanghai, China",081024004@fudan.edu.cn,,2,2,0
+0000-0001-8611-2377,Bettina Fazzinga,"DIMES, UNICAL, Rende, IT",bfazzinga@dimes.unical.it,,2,2,0
+0000-0003-0914-4580,Xiaokui Xiao,School of Computer Engineering Nanyang Technological University Singapore,xkxiao@ntu.edu.sg,,3,3,0
+0000-0002-6877-1683,Junchen Jiang,Google Research,jasonjiang@google.com,,1,1,0
+0000-0002-2254-8814,James Cheng,"School of Computer Engineering Nanyang Technological University, Singapore",jcheng@acm.org,,0,0,0
+0000-0002-2266-7450,Xian Li,SUNY at Binghamton,xianli@cs.binghamton.edu,,0,0,0
+0000-0002-3219-0510,Christos Doulkeridis,"Dept. of Digital Systems, University of Piraeus, Greece",cdoulk@unipi.gr,,2,2,0
+0000-0002-5630-7648,Jun Hou,"School of Electrical Engineering and Computer Science Queensland University of Technology Brisbane, 4000, Australia",jun.hou@student.qut.edu.au,,3,3,0
+0000-0003-0770-2235,Alessio Conte,"Universit? di Pisa, Pisa, Italy",conte@di.unipi.it,,4,4,0
+0000-0002-8795-1516,Taewoo Kim,"University of California, Irvine, CA, USA",,,1,1,0
+0000-0003-2782-1397,George Tsatsanifos,"National Technical University of Athens Athens, Greece",gtsat@dblab.ece.ntua.gr,,0,0,0
+0000-0002-9487-9540,Spyros Blanas,The Ohio State University,blanas.2@osu.edu,,0,0,0
+0000-0001-6010-263X,Yanpei Chen,"University of California, Berkeley",ychen2@eecs.berkeley.edu,,2,2,0
+0000-0002-4265-6863,Shuai Ma,"NLSDE Lab, Beihang University",mashuai@act.buaa.edu.cn,,3,3,0
+0000-0002-8229-2582,Angen Zheng,"University of Pittsburgh Pittsburgh, PA, USA",anz28@cs.pitt.edu,,4,4,0
+0000-0002-7666-1871,Aditi Pandit,"Teradata Aster, USA",,,1,1,0
+0000-0001-8473-3006,Fatemah Panahi,"Department of Computer Sciences, University of Wisconsin-Madison",fatemeh@cs.wisc.edu,,2,2,0
+0000-0001-5110-8546,Zhen Hua Liu,"Oracle Corporation 500 Oracle Parkway Redwood Shores, CA 94065, USA",zhen.liu@oracle.com,,0,0,0
+0000-0001-5720-4715,Brian Hentschel,Harvard University,bhentschel@g.harvard.edu,,2,2,0
+0000-0003-4561-2214,Woohwan Jung,Seoul National University,whjung@kdd.snu.ac.kr,,2,2,0
+0000-0003-3883-5452,Yufei Tao,Chinese University of Hong Kong,taoyf@cse.cuhk.edu.hk,,0,0,0
+0000-0002-7043-6534,Wei Shen,"Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Computer Science and Technology, Tsinghua University, Beijing, China",chen-wei09@mails.tsinghua.edu.cn,,1,1,0
+0000-0001-9486-4747,Liwen Sun,"AMPLab, UC Berkeley",liwen@cs.berkeley.edu,,1,1,0
+0000-0003-2642-4736,Xiao Qin,"Department of Computer Science Worcester Polytechnic Institute 100 Institute Road, Worcester MA, USA",xqin@cs.wpi.edu,,0,0,0
+0000-0003-1454-9451,Farhan Tauheed,"Data-Intensive Applications and Systems Lab Ecole Polytechnique FÂ¢Â¥edÂ¢Â¥erale de Lausanne, Switzerland",farhan.tauheed@epfl.ch,,3,3,0
+0000-0002-1517-480X,Saravanan Thirumuruganathan,University of Texas at Arlington,saravanan.thirumuruganathan@mavs.uta.edu,,4,4,0
+0000-0001-9770-3818,Sourav Dutta,"Max Planck Institute for Informatics, Germany",sdutta@mpi-inf.mpg.de,,2,2,0
+0000-0002-7052-1114,Francesco Gullo,"DEIS Dept. University of Calabria 87036 Rende (CS), Italy",fgullo@deis.unical.it,,0,0,0
+0000-0002-4669-4170,Theodoros Lappas,"University of California, Riverside",tlappas@cs.ucr.edu,,1,1,0
+0000-0003-1986-5234,Nathan Bales,"UC San Diego La Jolla, CA",nbales@cs.ucsd.edu,,2,2,0
+0000-0002-6208-951X,Georgia Koutrika,"Computer Science Department, Stanford University, Stanford, California, USA",koutrika@cs.stanford.edu,,0,0,0
+0000-0003-0063-0910,Riham Abdel Kader,"University of Twente Enschede, The Netherlands",r.abdelkader@utwente.nl,,2,2,0
+0000-0003-3476-8248,Junzhou Zhao,"MOEKLINNS Lab, XiÂ¡Â¯an Jiaotong University, China",jzzhao@sei.xjtu.edu.cn,,3,3,0
+0000-0003-0809-7911,Buwen Wu,"SCTS/CGCL, Huazhong University of Science and Technology, Wuhan, China",wubuwen@hust.edu.cn,,4,4,0
+0000-0001-6094-3244,Peng Wang,"Fudan University, Shanghai, China",pengwang5@fudan.edu.cn,,0,0,0
+0000-0003-4797-4761,Richard Wesley,"Tableau Software 837 North 34th Street, Suite 200 Seattle, WA 98103, USA +01-206-633-3400",hawkfish@tableausoftware.com,,1,1,0
+0000-0003-2760-4536,Wentao Wu,"Department of Computer Sciences, University of Wisconsin-Madison",wentaowu@cs.wisc.edu,,1,1,0
+0000-0002-4244-7201,Jeffrey Jestes,"School of Computing, University of Utah Salt Lake City, Utah, USA",jestes@cs.utah.edu,,0,0,0
+0000-0002-4263-0364,Ravali Pochampally,University of Massachusetts,ravali@cs.umass.edu,,2,2,0
+0000-0002-9756-9206,Sergej Fries,"Department Computer Science 9 RWTH Aachen University D-52056 Aachen, Germany",fries@cs.rwth-aachen.de,,2,2,0
+0000-0002-0812-4257,Chengyuan Zhang,The University of New South Wales,zhangc@cse.unsw.edu.au,,3,3,0
+0000-0003-0598-3096,Yi-Reun Kim,"Department of Computer Science Korea Advanced Institute of Science and Technology (KAIST) Daejeon, Korea",yrkim@mozart.kaist.ac.kr,,4,4,0
+0000-0002-9793-3995,Boduo Li,"Department of Computer Science University of Massachusetts, Amherst, Massachusetts, USA",boduo@cs.umass.edu,,1,1,0
+0000-0002-7761-5674,Ziyang Liu,"NEC Laboratories America Cupertino CA, USA",ziyang@nec-labs.com,,2,2,0
+0000-0001-8878-6981,Jagan Sankaranarayanan,"NEC Labs America, Cupertino, CA",jagan@nec-labs.com,,3,3,0
+0000-0001-8895-894X,Donald Kossmann,"Systems Group, Department of Computer Science, ETH Zurich, Switzerland",donald.kossmann@inf.ethz.ch,,4,4,0
+0000-0002-1507-7444,Oren Kalinsky,Technion ? Israel Institute Of Technology,okalinsk@campus.technion.ac.il,,1,1,0
+0000-0002-0470-6639,K. Ashwin Kumar,"University of Maryland, College Park",ashwin@cs.umd.edu,,2,2,0
+0000-0002-5749-3665,Chaitanya Gokhale,University of Wisconsin-Madison,,,3,3,0
+0000-0002-2148-9592,Hannes Voigt,"Database Technology Group, Technische Universitat Dresden Â¡Â§ 01062 Dresden",hannes.voigt@tu-dresden.de,,1,1,0
+0000-0001-6651-0554,Grigoris Karvounarakis,"LogicBlox Atlanta, GA, USA",gregkar@gmail.com,,2,2,0
+0000-0002-6386-4813,Julien Pilourdault,"Universit? Grenoble Alpes, CNRS, LIG, France",julien.pilourdault@imag.fr,,4,4,0
+0000-0003-4758-1917,Ying Yang,University at Buffalo,yyang25@buffalo.edu,,1,1,0
+0000-0003-2049-6691,Ahmed M. Aly,"Purdue University, West Lafayette, IN",aaly@cs.purdue.edu,,0,0,0
+0000-0002-7258-8670,Anton Dign?s,"Department of Computer Science University of Z?rich, Switzerland",adignoes@ifi.uzh.ch,,2,2,0
+0000-0002-0698-0922,Graham Cormode,AT&T Labs?Research,graham@research.att.com,,0,0,0
+0000-0002-7510-0255,Hwanjo Yu,"Department of Computer Science and Engineering POSTECH Pohang, South Korea",hwanjoyu@postech.ac.kr,,2,2,0
+0000-0003-2328-4379,David Kernert,"Technische Universit?t Dresden Database Technology Group Dresden, Germany",david.kernert@sap.com,,2,2,0
